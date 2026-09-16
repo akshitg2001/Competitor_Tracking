@@ -1,0 +1,211 @@
+{
+  "source": {
+    "id": "onyc",
+    "brand": "ONYC",
+    "url": "https://onyc.in",
+    "mode": "Public website"
+  },
+  "generatedAt": "2026-09-15T20:19:49.691Z",
+  "isBaseline": false,
+  "metrics": {
+    "activeListings": 109,
+    "variantCount": 825,
+    "averageSellingPrice": 585,
+    "averageDiscount": 43,
+    "campaignCount": 3,
+    "totalReviews": 5495,
+    "averageRating": 4.85,
+    "averageReviewsPerProduct": 50,
+    "ratedProducts": 109
+  },
+  "categories": {
+    "type": [
+      {
+        "key": "shoes",
+        "label": "Shoes",
+        "productCount": 51,
+        "averageSellingPrice": 799,
+        "averageDiscount": 34.9,
+        "totalReviews": 3025,
+        "averageRating": 4.85
+      },
+      {
+        "key": "sandals",
+        "label": "Sandals",
+        "productCount": 16,
+        "averageSellingPrice": 418,
+        "averageDiscount": 50.1,
+        "totalReviews": 1158,
+        "averageRating": 4.8
+      },
+      {
+        "key": "sliders",
+        "label": "Sliders",
+        "productCount": 18,
+        "averageSellingPrice": 424,
+        "averageDiscount": 50.1,
+        "totalReviews": 333,
+        "averageRating": 4.9
+      },
+      {
+        "key": "flip-flops",
+        "label": "Flip-Flops",
+        "productCount": 24,
+        "averageSellingPrice": 362,
+        "averageDiscount": 50.1,
+        "totalReviews": 979,
+        "averageRating": 4.85
+      }
+    ],
+    "gender": [
+      {
+        "key": "unisex",
+        "label": "Unisex",
+        "productCount": 97,
+        "averageSellingPrice": 593,
+        "averageDiscount": 42.6,
+        "totalReviews": 4796,
+        "averageRating": 4.85
+      },
+      {
+        "key": "girls",
+        "label": "Girls",
+        "productCount": 11,
+        "averageSellingPrice": 485,
+        "averageDiscount": 46.7,
+        "totalReviews": 570,
+        "averageRating": 4.83
+      },
+      {
+        "key": "boys",
+        "label": "Boys",
+        "productCount": 1,
+        "averageSellingPrice": 899,
+        "averageDiscount": 40,
+        "totalReviews": 129,
+        "averageRating": 4.84
+      },
+      {
+        "key": "unspecified",
+        "label": "Unspecified",
+        "productCount": 0,
+        "averageSellingPrice": 0,
+        "averageDiscount": 0,
+        "totalReviews": 0,
+        "averageRating": 0
+      }
+    ],
+    "age": [
+      {
+        "key": "infants",
+        "label": "Infants · 9–18m",
+        "productCount": 88,
+        "averageSellingPrice": 567,
+        "averageDiscount": 42.4,
+        "totalReviews": 4609,
+        "averageRating": 4.85
+      },
+      {
+        "key": "toddlers",
+        "label": "Toddlers · 18–36m",
+        "productCount": 99,
+        "averageSellingPrice": 594,
+        "averageDiscount": 42.4,
+        "totalReviews": 5201,
+        "averageRating": 4.85
+      },
+      {
+        "key": "early-years",
+        "label": "Early years · 3–5y",
+        "productCount": 109,
+        "averageSellingPrice": 585,
+        "averageDiscount": 43,
+        "totalReviews": 5495,
+        "averageRating": 4.85
+      },
+      {
+        "key": "growing-kids",
+        "label": "Growing kids · 5–9y",
+        "productCount": 25,
+        "averageSellingPrice": 443,
+        "averageDiscount": 49.4,
+        "totalReviews": 1204,
+        "averageRating": 4.83
+      }
+    ]
+  },
+  "campaigns": [
+    {
+      "key": "first-order",
+      "title": "First-order offer",
+      "detail": "Use ONYC5OFF on the first order.",
+      "discountText": "5% extra off",
+      "type": "Coupon",
+      "sourceSurface": "Announcement bar",
+      "observedAt": "2026-09-15T20:19:49.691Z"
+    },
+    {
+      "key": "multi-buy",
+      "title": "Multi-buy offer",
+      "detail": "Buy 2 · 10% extra off; Buy 3 · 15% extra off",
+      "discountText": "10% / 15%",
+      "type": "Multi-buy",
+      "sourceSurface": "Cart drawer widget",
+      "observedAt": "2026-09-15T20:19:49.691Z"
+    },
+    {
+      "key": "free-delivery",
+      "title": "Free prepaid delivery",
+      "detail": "Free delivery is promoted for prepaid orders.",
+      "discountText": "Service benefit",
+      "type": "Shipping benefit",
+      "sourceSurface": "Announcement bar",
+      "observedAt": "2026-09-15T20:19:49.691Z"
+    }
+  ],
+  "campaignHealth": {
+    "status": "Healthy",
+    "inspectedSurfaces": [
+      "Homepage text",
+      "Announcement bar",
+      "Public cart-widget settings"
+    ]
+  },
+  "events": [
+    {
+      "type": "campaign_added",
+      "severity": "normal",
+      "title": "New campaign: Multi-buy offer",
+      "detail": "Buy 2 · 10% extra off; Buy 3 · 15% extra off",
+      "productId": null,
+      "variantId": null,
+      "previousValue": null,
+      "currentValue": null,
+      "occurredAt": "2026-09-15T20:19:49.691Z"
+    },
+    {
+      "type": "campaign_added",
+      "severity": "normal",
+      "title": "New campaign: First-order offer",
+      "detail": "Use ONYC5OFF on the first order.",
+      "productId": null,
+      "variantId": null,
+      "previousValue": null,
+      "currentValue": null,
+      "occurredAt": "2026-09-15T20:19:49.691Z"
+    }
+  ],
+  "health": {
+    "status": "Healthy",
+    "catalogueComplete": true,
+    "pricedProducts": 109,
+    "detailPagesChecked": 109,
+    "detailPagesFailed": 0
+  },
+  "refresh": {
+    "allowed": false,
+    "scansToday": 1,
+    "limitPerDay": 1,
+    "nextAvailableAt": "2026-09-16T18:30:00.000Z"
+  }
+}

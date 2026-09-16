@@ -1,0 +1,199 @@
+{
+  "source": {
+    "id": "kats",
+    "brand": "KATS",
+    "url": "https://katsstore.com",
+    "mode": "Public website"
+  },
+  "generatedAt": "2026-09-16T12:22:04.285Z",
+  "isBaseline": false,
+  "metrics": {
+    "activeListings": 75,
+    "variantCount": 1045,
+    "averageSellingPrice": 553,
+    "averageDiscount": 34.9,
+    "campaignCount": 4,
+    "totalReviews": 21,
+    "averageRating": 4.76,
+    "averageReviewsPerProduct": 2,
+    "ratedProducts": 9
+  },
+  "categories": {
+    "type": [
+      {
+        "key": "light-shoes",
+        "label": "Light Shoes",
+        "productCount": 16,
+        "averageSellingPrice": 662,
+        "averageDiscount": 44.8,
+        "totalReviews": 13,
+        "averageRating": 4.85
+      },
+      {
+        "key": "sandals",
+        "label": "Sandals",
+        "productCount": 30,
+        "averageSellingPrice": 495,
+        "averageDiscount": 31,
+        "totalReviews": 1,
+        "averageRating": 5
+      },
+      {
+        "key": "clogs",
+        "label": "Clogs & Slip-ons",
+        "productCount": 9,
+        "averageSellingPrice": 499,
+        "averageDiscount": 36.5,
+        "totalReviews": 2,
+        "averageRating": 5
+      },
+      {
+        "key": "shoes",
+        "label": "Shoes",
+        "productCount": 20,
+        "averageSellingPrice": 577,
+        "averageDiscount": 32.2,
+        "totalReviews": 5,
+        "averageRating": 4.4
+      }
+    ],
+    "gender": [
+      {
+        "key": "unisex",
+        "label": "Unisex",
+        "productCount": 63,
+        "averageSellingPrice": 551,
+        "averageDiscount": 36.6,
+        "totalReviews": 21,
+        "averageRating": 4.76
+      },
+      {
+        "key": "girls",
+        "label": "Girls",
+        "productCount": 7,
+        "averageSellingPrice": 549,
+        "averageDiscount": 31,
+        "totalReviews": 0,
+        "averageRating": 0
+      },
+      {
+        "key": "unspecified",
+        "label": "Unspecified",
+        "productCount": 5,
+        "averageSellingPrice": 575,
+        "averageDiscount": 19.5,
+        "totalReviews": 0,
+        "averageRating": 0
+      }
+    ],
+    "age": [
+      {
+        "key": "0-3-years",
+        "label": "0–3 years",
+        "productCount": 71,
+        "averageSellingPrice": 549,
+        "averageDiscount": 35.3,
+        "totalReviews": 20,
+        "averageRating": 4.8
+      },
+      {
+        "key": "3-6-years",
+        "label": "3–6 years",
+        "productCount": 44,
+        "averageSellingPrice": 571,
+        "averageDiscount": 37.1,
+        "totalReviews": 19,
+        "averageRating": 4.74
+      },
+      {
+        "key": "6-9-years",
+        "label": "6–9 years",
+        "productCount": 16,
+        "averageSellingPrice": 564,
+        "averageDiscount": 35.9,
+        "totalReviews": 11,
+        "averageRating": 4.73
+      },
+      {
+        "key": "9-16-years",
+        "label": "9–16 years",
+        "productCount": 8,
+        "averageSellingPrice": 554,
+        "averageDiscount": 32.3,
+        "totalReviews": 2,
+        "averageRating": 4.5
+      }
+    ]
+  },
+  "campaigns": [
+    {
+      "key": "kats:first-buy",
+      "title": "First-purchase offer",
+      "detail": "Use SAVE10 on the first purchase.",
+      "discountText": "10% off",
+      "type": "Coupon",
+      "sourceSurface": "Announcement bar",
+      "observedAt": "2026-09-16T12:22:04.285Z"
+    },
+    {
+      "key": "kats:coupon:kats10",
+      "title": "Checkout coupon",
+      "detail": "Use KATS10 at checkout.",
+      "discountText": "10% off",
+      "type": "Coupon",
+      "sourceSurface": "Product page",
+      "observedAt": "2026-09-16T12:22:04.285Z"
+    },
+    {
+      "key": "kats:newsletter",
+      "title": "Newsletter signup offer",
+      "detail": "Discount promoted for newsletter signup.",
+      "discountText": "10% off",
+      "type": "Signup offer",
+      "sourceSurface": "Website footer",
+      "observedAt": "2026-09-16T12:22:04.285Z"
+    },
+    {
+      "key": "kats:free-shipping",
+      "title": "Free shipping threshold",
+      "detail": "Free shipping is promoted for orders above ₹399.",
+      "discountText": "Above ₹399",
+      "type": "Shipping benefit",
+      "sourceSurface": "Product page",
+      "observedAt": "2026-09-16T12:22:04.285Z"
+    }
+  ],
+  "events": [],
+  "reviewAccounting": {
+    "status": "Healthy",
+    "uniqueReviews": 21,
+    "activeCatalogueReviews": 21,
+    "historicalReviews": 0,
+    "displayedReviewMentions": 21,
+    "duplicateReviewMentions": 0,
+    "sharedPoolCount": 0,
+    "ageCoverageMentions": 52,
+    "ageOverlapMentions": 31,
+    "averageRating": 4.76
+  },
+  "campaignHealth": {
+    "status": "Healthy",
+    "inspectedSurfaces": [
+      "Homepage",
+      "Product pages"
+    ]
+  },
+  "health": {
+    "status": "Healthy",
+    "catalogueComplete": true,
+    "pricedProducts": 75,
+    "detailPagesChecked": 75,
+    "detailPagesFailed": 0
+  },
+  "refresh": {
+    "allowed": false,
+    "scansToday": 1,
+    "limitPerDay": 1,
+    "nextAvailableAt": "2026-09-16T18:30:00.000Z"
+  }
+}

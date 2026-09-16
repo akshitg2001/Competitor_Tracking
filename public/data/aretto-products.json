@@ -1,0 +1,5004 @@
+{
+  "source": {
+    "id": "aretto",
+    "brand": "Aretto",
+    "url": "https://wearetto.com",
+    "mode": "Public website"
+  },
+  "generatedAt": "2026-09-16T12:21:29.040Z",
+  "products": [
+    {
+      "id": "9491414319244",
+      "title": "Aretto Adaptive Fit",
+      "handle": "aretto-adaptive-fit",
+      "url": "https://wearetto.com/products/aretto-adaptive-fit",
+      "productType": "Shoes",
+      "productTypeKey": "shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "Aretto-pixel"
+      ],
+      "description": "From first leaps to giant strides. Aretto Leaps combines design and technology to give growing feet what they need most: freedom. With our patented expandable sole, they stretch up to 18mm—three sizes in one shoe. The result? A perfect fit that adapts as kids move, grow, and explore.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0380_dafc9906-b204-4cf2-a56b-c66734ab5c1f.jpg?v=1770035301",
+      "publishedAt": "2026-06-13T15:10:04+05:30",
+      "variants": [
+        {
+          "id": "50707133530252",
+          "sku": "E11A1Z0408A",
+          "title": "S1 (EU 20 - 22) / Happy Hopper",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707133366412",
+          "sku": "E11A1Z0308A",
+          "title": "S1 (EU 20 - 22) / Colour Pop",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50707133497484",
+          "sku": "E11A1Z0108A",
+          "title": "S1 (EU 20 - 22) / Summer Swim",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707133563020",
+          "sku": "E11A1Y0608A",
+          "title": "S1 (EU 20 - 22) / Submariner",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50707133464716",
+          "sku": "E11A1Y1308A",
+          "title": "S1 (EU 20 - 22) / Cross Court",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50707133628556",
+          "sku": "E11A1Z1408A",
+          "title": "S1 (EU 20 - 22) / Aster Bloom",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707145326732",
+          "sku": "E11A5Z2308C",
+          "title": "S1 (EU 20 - 22) / Dune",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50707133333644",
+          "sku": "E11A1Y1108A",
+          "title": "S1 (EU 20 - 22) / All Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707145261196",
+          "sku": "E11A5Z2208C",
+          "title": "S1 (EU 20 - 22) / Pixel Berry",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50707133661324",
+          "sku": "E11A1Z1508A",
+          "title": "S1 (EU 20 - 22) / Electro Buzz",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50707133399180",
+          "sku": "E11A1Y0708A",
+          "title": "S1 (EU 20 - 22) / Classic Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707145293964",
+          "sku": "E11A5Z2408C",
+          "title": "S1 (EU 20 - 22) / Mariana Blue",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3399,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50707133431948",
+          "sku": "E11A1Y0808A",
+          "title": "S1 (EU 20 - 22) / Candy Floss",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707133595788",
+          "sku": "E11A1Z0208A",
+          "title": "S1 (EU 20 - 22) / Space Surfer Red",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707133890700",
+          "sku": "E12A1Z0408A",
+          "title": "S2 (EU 23 - 25) / Happy Hopper",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50707133726860",
+          "sku": "E12A1Z0308A",
+          "title": "S2 (EU 23 - 25) / Colour Pop",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": false
+        },
+        {
+          "id": "50707133857932",
+          "sku": "E12A1Z0108A",
+          "title": "S2 (EU 23 - 25) / Summer Swim",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707133923468",
+          "sku": "E12A1Y0608A",
+          "title": "S2 (EU 23 - 25) / Submariner",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50707133825164",
+          "sku": "E12A1Y1308A",
+          "title": "S2 (EU 23 - 25) / Cross Court",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50707133989004",
+          "sku": "E12A1Z1408A",
+          "title": "S2 (EU 23 - 25) / Aster Bloom",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707145425036",
+          "sku": "E12A5Z2308C",
+          "title": "S2 (EU 23 - 25) / Dune",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50707133694092",
+          "sku": "E12A1Y1108A",
+          "title": "S2 (EU 23 - 25) / All Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707145359500",
+          "sku": "E12A5Z2208C",
+          "title": "S2 (EU 23 - 25) / Pixel Berry",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50707134021772",
+          "sku": "E12A1Z1508A",
+          "title": "S2 (EU 23 - 25) / Electro Buzz",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50707133759628",
+          "sku": "E12A1Y0708A",
+          "title": "S2 (EU 23 - 25) / Classic Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707145392268",
+          "sku": "E12A5Z2408C",
+          "title": "S2 (EU 23 - 25) / Mariana Blue",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707133792396",
+          "sku": "E12A1Y0808A",
+          "title": "S2 (EU 23 - 25) / Candy Floss",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707133956236",
+          "sku": "E12A1Z0208A",
+          "title": "S2 (EU 23 - 25) / Space Surfer Red",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707134251148",
+          "sku": "E13A1Z0408A",
+          "title": "S3 (EU 26 - 28) / Happy Hopper",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707134087308",
+          "sku": "E13A1Z0308A",
+          "title": "S3 (EU 26 - 28) / Colour Pop",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50707134218380",
+          "sku": "E13A1Z0108A",
+          "title": "S3 (EU 26 - 28) / Summer Swim",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707134283916",
+          "sku": "E13A1Y0608A",
+          "title": "S3 (EU 26 - 28) / Submariner",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50707134185612",
+          "sku": "E13A1Y1308A",
+          "title": "S3 (EU 26 - 28) / Cross Court",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707134349452",
+          "sku": "E13A1Z1408A",
+          "title": "S3 (EU 26 - 28) / Aster Bloom",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707145523340",
+          "sku": "E13A5Z2308C",
+          "title": "S3 (EU 26 - 28) / Dune",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50707134054540",
+          "sku": "E13A1Y1108A",
+          "title": "S3 (EU 26 - 28) / All Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707145457804",
+          "sku": "E13A5Z2208C",
+          "title": "S3 (EU 26 - 28) / Pixel Berry",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50707134382220",
+          "sku": "E13A1Z1508A",
+          "title": "S3 (EU 26 - 28) / Electro Buzz",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "50707134120076",
+          "sku": "E13A1Y0708A",
+          "title": "S3 (EU 26 - 28) / Classic Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707145490572",
+          "sku": "E13A5Z2408C",
+          "title": "S3 (EU 26 - 28) / Mariana Blue",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707134152844",
+          "sku": "E13A1Y0808A",
+          "title": "S3 (EU 26 - 28) / Candy Floss",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707134316684",
+          "sku": "E13A1Z0208A",
+          "title": "S3 (EU 26 - 28) / Space Surfer Red",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50707134611596",
+          "sku": "E14A1Z0408A",
+          "title": "S4 (EU 29 - 31) / Happy Hopper",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50707134447756",
+          "sku": "E14A1Z0308A",
+          "title": "S4 (EU 29 - 31) / Colour Pop",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50707134578828",
+          "sku": "E14A1Z0108A",
+          "title": "S4 (EU 29 - 31) / Summer Swim",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707134644364",
+          "sku": "E14A1Y0608A",
+          "title": "S4 (EU 29 - 31) / Submariner",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707134546060",
+          "sku": "E14A1Y1308A",
+          "title": "S4 (EU 29 - 31) / Cross Court",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707134709900",
+          "sku": "E14A1Z1408A",
+          "title": "S4 (EU 29 - 31) / Aster Bloom",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707145621644",
+          "sku": "E14A5Z2308C",
+          "title": "S4 (EU 29 - 31) / Dune",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50707134414988",
+          "sku": "E14A1Y1108A",
+          "title": "S4 (EU 29 - 31) / All Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707145556108",
+          "sku": "E14A5Z2208C",
+          "title": "S4 (EU 29 - 31) / Pixel Berry",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50707134742668",
+          "sku": "E14A1Z1508A",
+          "title": "S4 (EU 29 - 31) / Electro Buzz",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50707134480524",
+          "sku": "E14A1Y0708A",
+          "title": "S4 (EU 29 - 31) / Classic Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707145588876",
+          "sku": "E14A5Z2408C",
+          "title": "S4 (EU 29 - 31) / Mariana Blue",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707134513292",
+          "sku": "E14A1Y0808A",
+          "title": "S4 (EU 29 - 31) / Candy Floss",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707134677132",
+          "sku": "E14A1Z0208A",
+          "title": "S4 (EU 29 - 31) / Space Surfer Red",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50707134972044",
+          "sku": "E15A1Z0408A",
+          "title": "S5 (EU 32 - 34) / Happy Hopper",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707134808204",
+          "sku": "E15A1Z0308A",
+          "title": "S5 (EU 32 - 34) / Colour Pop",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50707134939276",
+          "sku": "E15A1Z0108A",
+          "title": "S5 (EU 32 - 34) / Summer Swim",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707135004812",
+          "sku": "E15A1Y0608A",
+          "title": "S5 (EU 32 - 34) / Submariner",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707134906508",
+          "sku": "E15A1Y1308A",
+          "title": "S5 (EU 32 - 34) / Cross Court",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707135070348",
+          "sku": "E15A1Z1408A",
+          "title": "S5 (EU 32 - 34) / Aster Bloom",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707145719948",
+          "sku": "E15A5Z2308C",
+          "title": "S5 (EU 32 - 34) / Dune",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50707134775436",
+          "sku": "E15A1Y1108A",
+          "title": "S5 (EU 32 - 34) / All Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707145654412",
+          "sku": "E15A5Z2208C",
+          "title": "S5 (EU 32 - 34) / Pixel Berry",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50707135103116",
+          "sku": "E15A1Z1508A",
+          "title": "S5 (EU 32 - 34) / Electro Buzz",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "50707134840972",
+          "sku": "E15A1Y0708A",
+          "title": "S5 (EU 32 - 34) / Classic Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707145687180",
+          "sku": "E15A5Z2408C",
+          "title": "S5 (EU 32 - 34) / Mariana Blue",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707134873740",
+          "sku": "E15A1Y0808A",
+          "title": "S5 (EU 32 - 34) / Candy Floss",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707135037580",
+          "sku": "E15A1Z0208A",
+          "title": "S5 (EU 32 - 34) / Space Surfer Red",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50707135332492",
+          "sku": "E16A1Z0408A",
+          "title": "S6 (EU 35 - 37) / Happy Hopper",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50707135168652",
+          "sku": "E16A1Z0308A",
+          "title": "S6 (EU 35 - 37) / Colour Pop",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50707135299724",
+          "sku": "E16A1Z0108A",
+          "title": "S6 (EU 35 - 37) / Summer Swim",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707135365260",
+          "sku": "E16A1Y0608A",
+          "title": "S6 (EU 35 - 37) / Submariner",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707135266956",
+          "sku": "E16A1Y1308A",
+          "title": "S6 (EU 35 - 37) / Cross Court",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707135430796",
+          "sku": "E16A1Z1408A",
+          "title": "S6 (EU 35 - 37) / Aster Bloom",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707145818252",
+          "sku": "E16A5Z2308C",
+          "title": "S6 (EU 35 - 37) / Dune",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50707135135884",
+          "sku": "E16A1Y1108A",
+          "title": "S6 (EU 35 - 37) / All Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707145752716",
+          "sku": "E16A5Z2208C",
+          "title": "S6 (EU 35 - 37) / Pixel Berry",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50707135463564",
+          "sku": "E16A1Z1508A",
+          "title": "S6 (EU 35 - 37) / Electro Buzz",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50707135201420",
+          "sku": "E16A1Y0708A",
+          "title": "S6 (EU 35 - 37) / Classic Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50707145785484",
+          "sku": "E16A5Z2408C",
+          "title": "S6 (EU 35 - 37) / Mariana Blue",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50707135234188",
+          "sku": "E16A1Y0808A",
+          "title": "S6 (EU 35 - 37) / Candy Floss",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50707135398028",
+          "sku": "E16A1Z0208A",
+          "title": "S6 (EU 35 - 37) / Space Surfer Red",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        }
+      ],
+      "sellingPrice": 2699,
+      "mrp": 2699,
+      "discountPercent": 0,
+      "availableVariants": 69,
+      "totalVariants": 84,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 523,
+      "reviewPoolProductCount": 4,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "8228909383820",
+      "title": "Aretto Baby Blue Shoes",
+      "handle": "aretto-tyny-copy",
+      "url": "https://wearetto.com/products/aretto-tyny-copy",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "TYNY is Aretto’s baby and toddler shoe, designed for ages 6 months to 12 months, S1 for 1 to 2 years old, and S2 for 2 to 3 years old, with parents and early walkers in mind. It features a secure, easy-on winged Velcro strap and adapts across 3 sizes as your child grows. With a wide toe box, breathable Infiknit upper, soft Squishyfoam insole, and barefoot-like flat sole, TYNY keeps growing feet comfortable and protected.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/TynyS0-Amazon1500x1500-21.jpg?v=1747733439",
+      "publishedAt": "2025-10-30T11:47:16+05:30",
+      "variants": [
+        {
+          "id": "44362407411852",
+          "sku": "E10A2Y2008B",
+          "title": "S0 (EU 18 - 19) / Super Trooper",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        }
+      ],
+      "sellingPrice": 3399,
+      "mrp": 3399,
+      "discountPercent": 0,
+      "availableVariants": 0,
+      "totalVariants": 1,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 0,
+      "displayedReviewCount": 0,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "8228911546508",
+      "title": "Aretto Baby Pink Shoes",
+      "handle": "aretto-tyny-bubble-blush",
+      "url": "https://wearetto.com/products/aretto-tyny-bubble-blush",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "Babies don't sit still for long once they figure out how to move. Bubble Blush is built to keep up with all of it, the crawling, the cruising, the wobbly first steps. 1. Designed for Growing Feet - Patented Supergrooves sole expands up to 3 sizes (18mm). One pair, way longer use. Wide toe box means tiny toes actually spread out instead of getting squished together, which helps with balance as little ones start standing and walking. Zero-drop design keeps feet flat on the ground, the way nature intended for those early steps. The whole shoe is shaped for baby feet, not just a smaller adult shoe. 2. All-Day Comfort - SquishyFoam insoles cushion every wobble and plop down onto the floor. Infiknit knit upper stretches with every kick and crawl, no pinching, even mid-tummy-time. Lightweight too, so tiny feet don't feel weighed down. And it breathes, so no sweaty feet after a long nap or a busy afternoon. 3. Practical for Everyday Life - Slip-on, elastic, easy for any caregiver to get on fast, no laces, no fuss. One pair for crawling at home, cruising at the park, or a walk in the stroller. Comfortable enough for naps, sturdy enough for floor time. 4. Built to Last - Reinforced toe and heel for all the dragging and bumping that comes with new movement. Sole grips well on basically any surface, indoors or out. Materials made to survive actual baby use, not just look nice in a box. Sizes EU 20–37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/TynyS0-Amazon1500x1500-15.jpg?v=1747733335",
+      "publishedAt": "2025-10-30T11:44:24+05:30",
+      "variants": [
+        {
+          "id": "44362416062604",
+          "sku": "E10A2Y2108B",
+          "title": "S0 (EU 18 - 19) / Bubble Blush",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": false
+        }
+      ],
+      "sellingPrice": 2799,
+      "mrp": 2999,
+      "discountPercent": 6.7,
+      "availableVariants": 0,
+      "totalVariants": 1,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 0,
+      "displayedReviewCount": 0,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "8228896669836",
+      "title": "Aretto Baby Red Shoes",
+      "handle": "aretto-tyny-captain-a",
+      "url": "https://wearetto.com/products/aretto-tyny-captain-a",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "Every baby has their own way of getting around. Some go full speed crawling. Others wait it out for that first real step, and that's exactly where Captain A comes in. 1. Made to Keep Up with Growth - Supergrooves sole expands up to 3 sizes (18mm), so the shoe keeps pace with the baby instead of falling behind. Wide toe box leaves room for tiny toes to spread, which helps with balance once standing and stepping begin. Zero-drop sole keeps feet flat and grounded, pretty much how bare feet would move. Built around baby proportions from the start, not shrunk down from an adult shoe. 2. Comfort From Morning to Nap Time - SquishyFoam insoles soften every step while still keeping that low-to-the-ground feel babies need. Infiknit upper flexes right along with the foot, so there's no pinching, not even once. Lightweight construction means babies stay free to move without extra weight dragging them down. Breathable fabric keeps feet from overheating, even after a long stretch of play. 3. Easy for Everyday Wear - Slip-on with elastic flex makes getting dressed easier, especially with a baby who won't sit still. One pair handles crawling, cruising, and the in-between days, no need to rotate shoes. Sturdy enough for time on the floor, soft enough to stay comfortable through naps. 4. Made to Take a Beating - Reinforced toe and heel sections take on the scuffs from all the bumping and dragging that comes with learning to move. Outsole holds grip on tile or grass alike. Materials built for durability first, comfort never sacrificed. Sizes EU 20–37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/TynyS0-Amazon1500x1500-09.jpg?v=1747733398",
+      "publishedAt": "2025-10-30T11:52:37+05:30",
+      "variants": [
+        {
+          "id": "44362356228236",
+          "sku": "E10A2Y1708B",
+          "title": "S0 (EU 18 - 19)",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": false
+        }
+      ],
+      "sellingPrice": 3199,
+      "mrp": 3199,
+      "discountPercent": 0,
+      "availableVariants": 0,
+      "totalVariants": 1,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 0,
+      "displayedReviewCount": 0,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "8228902600844",
+      "title": "Aretto Baby Sky-Blue Shoes",
+      "handle": "aretto-tyny-sunny-splash",
+      "url": "https://wearetto.com/products/aretto-tyny-sunny-splash",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "TYNY is Aretto’s baby and toddler shoe, designed for ages 6 months to 12 months, S1 for 1 to 2 years old, and S2 for 2 to 3 years old, with parents and early walkers in mind. It features a secure, easy-on winged Velcro strap and adapts across 3 sizes as your child grows. With a wide toe box, breathable Infiknit upper, soft Squishyfoam insole, and barefoot-like flat sole, TYNY keeps growing feet comfortable and protected.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/TynyS0-Amazon1500x1500-03.jpg?v=1747733426",
+      "publishedAt": "2025-10-30T11:51:41+05:30",
+      "variants": [
+        {
+          "id": "44362380837004",
+          "sku": "E10A2Y1808B",
+          "title": "S0 (EU 18 - 19) / Sunny Splash",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2799,
+      "mrp": 2999,
+      "discountPercent": 6.7,
+      "availableVariants": 1,
+      "totalVariants": 1,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 0,
+      "displayedReviewCount": 0,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "7914267050124",
+      "title": "Aretto Kids Shoes",
+      "handle": "aretto-kids-shoes",
+      "url": "https://wearetto.com/products/aretto-kids-shoes",
+      "productType": "Shoes",
+      "productTypeKey": "shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "Ace Dasher",
+        "badge-Tiny Racer",
+        "gift-card-product",
+        "tag-Tiny Racer",
+        "Tiny Racers"
+      ],
+      "description": "Using design and technology, Aretto’s patented fit allows your child’s feet to grow freely and promotes healthy foot development. Kids’ feet have different needs as compared to adults. Aretto Leaps are the world’s first expanding kid’s shoes that have been developed keeping a kid’s growing needs in mind. They grow up to 18mm with your kid’s feet, ensuring a perfect fit always!",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0380_dafc9906-b204-4cf2-a56b-c66734ab5c1f.jpg?v=1770035301",
+      "publishedAt": "2024-08-08T19:20:55+05:30",
+      "variants": [
+        {
+          "id": "43243672567948",
+          "sku": "E11A1Y1108A",
+          "title": "S1 (EU 20 - 22) / All Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243672338572",
+          "sku": "E11A1Z0308A",
+          "title": "S1 (EU 20 - 22) / Colour Pop",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "43243672633484",
+          "sku": "E11A1Y0708A",
+          "title": "S1 (EU 20 - 22) / Classic Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "43243672961164",
+          "sku": "E11A1Z1408A",
+          "title": "S1 (EU 20 - 22) / Aster Bloom",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243672404108",
+          "sku": "E11A1Y0808A",
+          "title": "S1 (EU 20 - 22) / Candy Floss",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243672993932",
+          "sku": "E11A1Y1308A",
+          "title": "S1 (EU 20 - 22) / Cross Court",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "43243672273036",
+          "sku": "E11A1Z0408A",
+          "title": "S1 (EU 20 - 22) / Happy Hopper",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243672600716",
+          "sku": "E11A1Z0108A",
+          "title": "S1 (EU 20 - 22) / Summer Swim",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243672830092",
+          "sku": "E11A1Z0208A",
+          "title": "S1 (EU 20 - 22) / Space Surfer Red",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243672666252",
+          "sku": "E11A1Z1508A",
+          "title": "S1 (EU 20 - 22) / Electro Buzz",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "43243672895628",
+          "sku": "E11A1Y0608A",
+          "title": "S1 (EU 20 - 22) / Submariner",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "43243673288844",
+          "sku": "E12A1Y1108A",
+          "title": "S2 (EU 23 - 25) / All Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243673092236",
+          "sku": "E12A1Z0308A",
+          "title": "S2 (EU 23 - 25) / Colour Pop",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": false
+        },
+        {
+          "id": "43243673419916",
+          "sku": "E12A1Y0708A",
+          "title": "S2 (EU 23 - 25) / Classic Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "43243673747596",
+          "sku": "E12A1Z1408A",
+          "title": "S2 (EU 23 - 25) / Aster Bloom",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243673190540",
+          "sku": "E12A1Y0808A",
+          "title": "S2 (EU 23 - 25) / Candy Floss",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243673813132",
+          "sku": "E12A1Y1308A",
+          "title": "S2 (EU 23 - 25) / Cross Court",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "43243673059468",
+          "sku": "E12A1Z0408A",
+          "title": "S2 (EU 23 - 25) / Happy Hopper",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "43243673354380",
+          "sku": "E12A1Z0108A",
+          "title": "S2 (EU 23 - 25) / Summer Swim",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243673616524",
+          "sku": "E12A1Z0208A",
+          "title": "S2 (EU 23 - 25) / Space Surfer Red",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243673485452",
+          "sku": "E12A1Z1508A",
+          "title": "S2 (EU 23 - 25) / Electro Buzz",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "43243673714828",
+          "sku": "E12A1Y0608A",
+          "title": "S2 (EU 23 - 25) / Submariner",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "43243674108044",
+          "sku": "E13A1Y1108A",
+          "title": "S3 (EU 26 - 28) / All Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243673911436",
+          "sku": "E13A1Z0308A",
+          "title": "S3 (EU 26 - 28) / Colour Pop",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "43243674239116",
+          "sku": "E13A1Y0708A",
+          "title": "S3 (EU 26 - 28) / Classic Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "43243674501260",
+          "sku": "E13A1Z1408A",
+          "title": "S3 (EU 26 - 28) / Aster Bloom",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243673944204",
+          "sku": "E13A1Y0808A",
+          "title": "S3 (EU 26 - 28) / Candy Floss",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243674534028",
+          "sku": "E13A1Y1308A",
+          "title": "S3 (EU 26 - 28) / Cross Court",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243673845900",
+          "sku": "E13A1Z0408A",
+          "title": "S3 (EU 26 - 28) / Happy Hopper",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243674173580",
+          "sku": "E13A1Z0108A",
+          "title": "S3 (EU 26 - 28) / Summer Swim",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243674402956",
+          "sku": "E13A1Z0208A",
+          "title": "S3 (EU 26 - 28) / Space Surfer Red",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "43243674271884",
+          "sku": "E13A1Z1508A",
+          "title": "S3 (EU 26 - 28) / Electro Buzz",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "43243674435724",
+          "sku": "E13A1Y0608A",
+          "title": "S3 (EU 26 - 28) / Submariner",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "43243674828940",
+          "sku": "E14A1Y1108A",
+          "title": "S4 (EU 29 - 31) / All Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243674730636",
+          "sku": "E14A1Z0308A",
+          "title": "S4 (EU 29 - 31) / Colour Pop",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "43243674960012",
+          "sku": "E14A1Y0708A",
+          "title": "S4 (EU 29 - 31) / Classic Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "43243675254924",
+          "sku": "E14A1Z1408A",
+          "title": "S4 (EU 29 - 31) / Aster Bloom",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243674763404",
+          "sku": "E14A1Y0808A",
+          "title": "S4 (EU 29 - 31) / Candy Floss",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243675320460",
+          "sku": "E14A1Y1308A",
+          "title": "S4 (EU 29 - 31) / Cross Court",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243674632332",
+          "sku": "E14A1Z0408A",
+          "title": "S4 (EU 29 - 31) / Happy Hopper",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "43243674927244",
+          "sku": "E14A1Z0108A",
+          "title": "S4 (EU 29 - 31) / Summer Swim",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243675156620",
+          "sku": "E14A1Z0208A",
+          "title": "S4 (EU 29 - 31) / Space Surfer Red",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "43243675058316",
+          "sku": "E14A1Z1508A",
+          "title": "S4 (EU 29 - 31) / Electro Buzz",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "43243675189388",
+          "sku": "E14A1Y0608A",
+          "title": "S4 (EU 29 - 31) / Submariner",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "43243675615372",
+          "sku": "E15A1Y1108A",
+          "title": "S5 (EU 32 - 34) / All Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243675451532",
+          "sku": "E15A1Z0308A",
+          "title": "S5 (EU 32 - 34) / Colour Pop",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "43243675713676",
+          "sku": "E15A1Y0708A",
+          "title": "S5 (EU 32 - 34) / Classic Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "43243676008588",
+          "sku": "E15A1Z1408A",
+          "title": "S5 (EU 32 - 34) / Aster Bloom",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243675549836",
+          "sku": "E15A1Y0808A",
+          "title": "S5 (EU 32 - 34) / Candy Floss",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243676041356",
+          "sku": "E15A1Y1308A",
+          "title": "S5 (EU 32 - 34) / Cross Court",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243675385996",
+          "sku": "E15A1Z0408A",
+          "title": "S5 (EU 32 - 34) / Happy Hopper",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243675648140",
+          "sku": "E15A1Z0108A",
+          "title": "S5 (EU 32 - 34) / Summer Swim",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243675910284",
+          "sku": "E15A1Z0208A",
+          "title": "S5 (EU 32 - 34) / Space Surfer Red",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "43243675746444",
+          "sku": "E15A1Z1508A",
+          "title": "S5 (EU 32 - 34) / Electro Buzz",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "43243675975820",
+          "sku": "E15A1Y0608A",
+          "title": "S5 (EU 32 - 34) / Submariner",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "43243676369036",
+          "sku": "E16A1Y1108A",
+          "title": "S6 (EU 35 - 37) / All Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243676172428",
+          "sku": "E16A1Z0308A",
+          "title": "S6 (EU 35 - 37) / Colour Pop",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "43243676532876",
+          "sku": "E16A1Y0708A",
+          "title": "S6 (EU 35 - 37) / Classic Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "43243676827788",
+          "sku": "E16A1Z1408A",
+          "title": "S6 (EU 35 - 37) / Aster Bloom",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "43243676205196",
+          "sku": "E16A1Y0808A",
+          "title": "S6 (EU 35 - 37) / Candy Floss",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243676926092",
+          "sku": "E16A1Y1308A",
+          "title": "S6 (EU 35 - 37) / Cross Court",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243676106892",
+          "sku": "E16A1Z0408A",
+          "title": "S6 (EU 35 - 37) / Happy Hopper",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "43243676434572",
+          "sku": "E16A1Z0108A",
+          "title": "S6 (EU 35 - 37) / Summer Swim",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "43243676631180",
+          "sku": "E16A1Z0208A",
+          "title": "S6 (EU 35 - 37) / Space Surfer Red",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "43243676565644",
+          "sku": "E16A1Z1508A",
+          "title": "S6 (EU 35 - 37) / Electro Buzz",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "43243676762252",
+          "sku": "E16A1Y0608A",
+          "title": "S6 (EU 35 - 37) / Submariner",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2608,
+      "mrp": 2999,
+      "discountPercent": 13,
+      "availableVariants": 51,
+      "totalVariants": 66,
+      "rating": 4.69,
+      "reviewCount": 564,
+      "displayedRating": 4.69,
+      "displayedReviewCount": 564,
+      "reviewPoolProductCount": 4,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "8390637682828",
+      "title": "Aretto Leaps Aster Bloom",
+      "handle": "aretto-leaps-unisex-kids-shoes-as",
+      "url": "https://wearetto.com/products/aretto-leaps-unisex-kids-shoes-as",
+      "productType": "Shoes",
+      "productTypeKey": "shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "Ace Dasher",
+        "badge-Tiny Racer",
+        "gift-card-product",
+        "tag-Tiny Racer",
+        "Tiny Racers"
+      ],
+      "description": "Using design and technology, Aretto’s patented fit allows your child’s feet to grow freely and promotes healthy foot development. Kids’ feet have different needs as compared to adults. Aretto Leaps are the world’s first expanding kid’s shoes that have been developed keeping a kid’s growing needs in mind. They grow up to 18mm with your kid’s feet, ensuring a perfect fit always!",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0383.jpg?v=1770035301",
+      "publishedAt": "2025-12-23T16:54:15+05:30",
+      "variants": [
+        {
+          "id": "45550993866892",
+          "sku": "E11A1Z1408A",
+          "title": "S1 (EU 20 - 22) / Aster Bloom",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "45550994227340",
+          "sku": "E12A1Z1408A",
+          "title": "S2 (EU 23 - 25) / Aster Bloom",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "45550994587788",
+          "sku": "E13A1Z1408A",
+          "title": "S3 (EU 26 - 28) / Aster Bloom",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "45550994948236",
+          "sku": "E14A1Z1408A",
+          "title": "S4 (EU 29 - 31) / Aster Bloom",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "45550995308684",
+          "sku": "E15A1Z1408A",
+          "title": "S5 (EU 32 - 34) / Aster Bloom",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "45550995669132",
+          "sku": "E16A1Z1408A",
+          "title": "S6 (EU 35 - 37) / Aster Bloom",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3228,
+      "mrp": 3399,
+      "discountPercent": 5,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 4,
+      "reviewCount": 2,
+      "displayedRating": 4,
+      "displayedReviewCount": 2,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462973071500",
+      "title": "Aretto Leaps Black Kids Shoes",
+      "handle": "leaps-kids-shoes-all-black",
+      "url": "https://wearetto.com/products/leaps-kids-shoes-all-black",
+      "productType": "School Shoes",
+      "productTypeKey": "school-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Some shoes are loud about it. This one isn't. The All Black Leaps is school shoes done right, quietly doing more than most shoes twice its price ever will. 1. Patented SuperGrooves outsole expands up to 3 sizes, that's 18mm of real, measurable growth absorbed into the same pair. Wide toe box gives toes actual room to spread out, which means better grip, better balance, and none of that tight-toe squirm kids can't stop fidgeting over. Zero-drop from heel to toe. Proportioned for a child's foot, not an adult's shrunken down. 2. SquishyFoam cushioning does exactly what it sounds like. Every step lands softly, but the barefoot feel stays intact because kids' feet need to feel the ground to learn from it. Infiknit upper stretches in every direction, no stiff spots, no breaking in, no complaints by lunchtime. Light enough that they forget they're wearing shoes. Breathable enough for the full school day and whatever comes after. 3. Slip-on fit with elastic flex means no laces to fight, no Velcro that stops sticking. Kids get them on themselves, morning, sorted. 4. Reinforced at the toe and heel for the kind of play that isn't gentle. Built from materials that hold up through all of it, from classroom floors to gravel tracks. Available in EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0364_e769e6f9-6e15-4f79-90ce-d0fef7614502.jpg?v=1770035301",
+      "publishedAt": "2026-06-17T14:36:48+05:30",
+      "variants": [
+        {
+          "id": "50447513682060",
+          "sku": "E11A1Y1108A",
+          "title": "S1 (EU 20 - 22) / All Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447514140812",
+          "sku": "E12A1Y1108A",
+          "title": "S2 (EU 23 - 25) / All Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447514599564",
+          "sku": "E13A1Y1108A",
+          "title": "S3 (EU 26 - 28) / All Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447515058316",
+          "sku": "E14A1Y1108A",
+          "title": "S4 (EU 29 - 31) / All Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447515517068",
+          "sku": "E15A1Y1108A",
+          "title": "S5 (EU 32 - 34) / All Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447515975820",
+          "sku": "E16A1Y1108A",
+          "title": "S6 (EU 35 - 37) / All Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2608,
+      "mrp": 2999,
+      "discountPercent": 13,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 521,
+      "reviewPoolProductCount": 4,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462976249996",
+      "title": "Aretto Leaps Black Kids Shoes",
+      "handle": "leaps-kids-shoes-classic-black",
+      "url": "https://wearetto.com/products/leaps-kids-shoes-classic-black",
+      "productType": "School Shoes",
+      "productTypeKey": "school-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Classic Black is the one you reach for when you want it to work with everything, school uniform, weekend clothes, sports kit, without buying three separate pairs. Versatile on the outside, and properly thought through on the inside. 1. SuperGrooves patented expansion technology means this sole physically grows with the foot, 3 sizes, up to 18mm, before you need to replace it. The wide toe box is there because a child's foot is wide at the front and a shoe that ignores that causes real problems. Toes spread, push off, grip correctly. Zero-drop keeps heel and toe on the same plane, the position that supports posture without asking anything of the child. 2. SquishyFoam cushions the inside without deadening the ground feel that developing feet actually need. Infiknit knit upper stretches in every direction with no tight spots, no heel rub, nothing that needs breaking in. Breathable through a full school day. Light enough that the weight genuinely isn't noticed. 3. Slip-on with elastic flex. No laces, no Velcro, no help required. Kids manage it themselves and that independence matters. 4. Reinforced toe cap and heel for whatever the playground finds to throw at it. Smart enough for outings, tough enough for after. Sized EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0380_dafc9906-b204-4cf2-a56b-c66734ab5c1f.jpg?v=1770035301",
+      "publishedAt": "2026-06-17T14:36:53+05:30",
+      "variants": [
+        {
+          "id": "50447525150860",
+          "sku": "E11A1Y0708A",
+          "title": "S1 (EU 20 - 22) / Classic Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50447525609612",
+          "sku": "E12A1Y0708A",
+          "title": "S2 (EU 23 - 25) / Classic Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50447526068364",
+          "sku": "E13A1Y0708A",
+          "title": "S3 (EU 26 - 28) / Classic Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50447526527116",
+          "sku": "E14A1Y0708A",
+          "title": "S4 (EU 29 - 31) / Classic Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50447526985868",
+          "sku": "E15A1Y0708A",
+          "title": "S5 (EU 32 - 34) / Classic Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50447527444620",
+          "sku": "E16A1Y0708A",
+          "title": "S6 (EU 35 - 37) / Classic Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2625,
+      "mrp": 2699,
+      "discountPercent": 2.7,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 4.73,
+      "reviewCount": 520,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 520,
+      "reviewPoolProductCount": 2,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462977986700",
+      "title": "Aretto Leaps Blue Kids Shoes",
+      "handle": "leaps-blue-kids-shoes-happy-hopper",
+      "url": "https://wearetto.com/products/leaps-blue-kids-shoes-happy-hopper",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Some children treat shoes like equipment and the kids shoes don't survive it. Happy Hopper is designed from the start with the assumption that it will be jumped in, scuffed up, and put through more than the average pair ever sees 1. SuperGrooves outsole grips through jumps, sprints, and landings, across every surface the day finds. It expands across 3 sizes as the foot grows, up to 18mm, so one pair handles more of the growing year than expected. Wide toe box gives toes the room to push off and land properly. When toes have space, running mechanics improve, balance improves, and feet don't hurt by afternoon. Zero-drop from heel to toe because the natural foot position is the most efficient one for kids who move like this. 2. SquishyFoam absorbs repeated impact without going flat mid-day. Infiknit upper stretches in every direction with no resistance at the points where high-activity movement is widest. Breathable, light, and cool even when the energy running the shoes isn't. 3. Slip-on with elastic flex. On fast, off fast. The kind of shoe that doesn't slow the morning or the afternoon down. 4. Reinforced toe and heel because that's where happy hoppers wear through first, always. Built from materials that hold up. EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0356_781ef0a8-712d-4b32-a613-bf4cbeeabb07.jpg?v=1770035301",
+      "publishedAt": "2026-06-17T14:36:57+05:30",
+      "variants": [
+        {
+          "id": "50447538061452",
+          "sku": "E11A1Z0408A",
+          "title": "S1 (EU 20 - 22) / Happy Hopper",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50447538520204",
+          "sku": "E12A1Z0408A",
+          "title": "S2 (EU 23 - 25) / Happy Hopper",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50447538978956",
+          "sku": "E13A1Z0408A",
+          "title": "S3 (EU 26 - 28) / Happy Hopper",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50447539437708",
+          "sku": "E14A1Z0408A",
+          "title": "S4 (EU 29 - 31) / Happy Hopper",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50447539896460",
+          "sku": "E15A1Z0408A",
+          "title": "S5 (EU 32 - 34) / Happy Hopper",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50447540355212",
+          "sku": "E16A1Z0408A",
+          "title": "S6 (EU 35 - 37) / Happy Hopper",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        }
+      ],
+      "sellingPrice": 2625,
+      "mrp": 3399,
+      "discountPercent": 22.8,
+      "availableVariants": 3,
+      "totalVariants": 6,
+      "rating": 4.73,
+      "reviewCount": 519,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 519,
+      "reviewPoolProductCount": 5,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9493702475916",
+      "title": "Aretto Leaps Kids School Shoes",
+      "handle": "school-shoes-for-kids-all-black",
+      "url": "https://wearetto.com/products/school-shoes-for-kids-all-black",
+      "productType": "School Shoes",
+      "productTypeKey": "school-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Made for every school day, our all-black school shoes pair a smart, uniform-ready look with the comfort active kids need from morning to home time. The lightweight, flexible sole supports natural movement, while the easy fastening lets little ones get ready on their own. Smart all-black finish, uniform-approved Lightweight, flexible sole for all-day comfort Durable build made to keep up with busy feet Supportive fit designed for growing feet Comfortable enough for the playground, smart enough for the classroom.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0364_e769e6f9-6e15-4f79-90ce-d0fef7614502.jpg?v=1770035301",
+      "publishedAt": "2026-06-15T14:16:19+05:30",
+      "variants": [
+        {
+          "id": "50722416623756",
+          "sku": "E11A1Y1108A",
+          "title": "S1 (EU 20 - 22) / All Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50722417082508",
+          "sku": "E12A1Y1108A",
+          "title": "S2 (EU 23 - 25) / All Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50722417541260",
+          "sku": "E13A1Y1108A",
+          "title": "S3 (EU 26 - 28) / All Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50722418000012",
+          "sku": "E14A1Y1108A",
+          "title": "S4 (EU 29 - 31) / All Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50722418458764",
+          "sku": "E15A1Y1108A",
+          "title": "S5 (EU 32 - 34) / All Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50722418917516",
+          "sku": "E16A1Y1108A",
+          "title": "S6 (EU 35 - 37) / All Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2608,
+      "mrp": 2999,
+      "discountPercent": 13,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 4.89,
+      "reviewCount": 337,
+      "displayedRating": 4.89,
+      "displayedReviewCount": 337,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "7155106152588",
+      "title": "Aretto Leaps Kids Shoes",
+      "handle": "aretto-leaps-kids-shoes",
+      "url": "https://wearetto.com/products/aretto-leaps-kids-shoes",
+      "productType": "Shoes",
+      "productTypeKey": "shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "masterlisting"
+      ],
+      "description": "From first leaps to giant strides. Aretto Leaps combines design and technology to give growing feet what they need most: freedom. With our patented expandable sole, they stretch up to 18mm—three sizes in one shoe. The result? A perfect fit that adapts as kids move, grow, and explore.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0380_dafc9906-b204-4cf2-a56b-c66734ab5c1f.jpg?v=1770035301",
+      "publishedAt": "2022-10-10T17:22:01+05:30",
+      "variants": [
+        {
+          "id": "41528051466380",
+          "sku": "E11A1Y1108A",
+          "title": "S1 (EU 20 - 22) / All Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015899783308",
+          "sku": "E11A1Y0708A",
+          "title": "S1 (EU 20 - 22) / Classic Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "41015900012684",
+          "sku": "E11A1Y0808A",
+          "title": "S1 (EU 20 - 22) / Candy Floss",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42756628873356",
+          "sku": "E11A1Z1408A",
+          "title": "S1 (EU 20 - 22) / Aster Bloom",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "42369901330572",
+          "sku": "E11A1Y1308A",
+          "title": "S1 (EU 20 - 22) / Cross Court",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "41015899914380",
+          "sku": "E11A1Z0108A",
+          "title": "S1 (EU 20 - 22) / Summer Swim",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42022312575116",
+          "sku": "E11A1Z0408A",
+          "title": "S1 (EU 20 - 22) / Happy Hopper",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "41015899750540",
+          "sku": "E11A1Z0308A",
+          "title": "S1 (EU 20 - 22) / Colour Pop",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "42987550277772",
+          "sku": "E11A1Z1508A",
+          "title": "S1 (EU 20 - 22) / Electro Buzz",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "41015899947148",
+          "sku": "E11A1Z0208A",
+          "title": "S1 (EU 20 - 22) / Space Surfer Red",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015899816076",
+          "sku": "E11A1Y0608A",
+          "title": "S1 (EU 20 - 22) / Submariner",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "41528051499148",
+          "sku": "E12A1Y1108A",
+          "title": "S2 (EU 23 - 25) / All Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900110988",
+          "sku": "E12A1Y0708A",
+          "title": "S2 (EU 23 - 25) / Classic Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "41015900307596",
+          "sku": "E12A1Y0808A",
+          "title": "S2 (EU 23 - 25) / Candy Floss",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42756628906124",
+          "sku": "E12A1Z1408A",
+          "title": "S2 (EU 23 - 25) / Aster Bloom",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "42369901363340",
+          "sku": "E12A1Y1308A",
+          "title": "S2 (EU 23 - 25) / Cross Court",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "41015900209292",
+          "sku": "E12A1Z0108A",
+          "title": "S2 (EU 23 - 25) / Summer Swim",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42022312607884",
+          "sku": "E12A1Z0408A",
+          "title": "S2 (EU 23 - 25) / Happy Hopper",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "41015900078220",
+          "sku": "E12A1Z0308A",
+          "title": "S2 (EU 23 - 25) / Colour Pop",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": false
+        },
+        {
+          "id": "42987550310540",
+          "sku": "E12A1Z1508A",
+          "title": "S2 (EU 23 - 25) / Electro Buzz",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "41015900242060",
+          "sku": "E12A1Z0208A",
+          "title": "S2 (EU 23 - 25) / Space Surfer Red",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900143756",
+          "sku": "E12A1Y0608A",
+          "title": "S2 (EU 23 - 25) / Submariner",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "41528051531916",
+          "sku": "E13A1Y1108A",
+          "title": "S3 (EU 26 - 28) / All Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900340364",
+          "sku": "E13A1Y0708A",
+          "title": "S3 (EU 26 - 28) / Classic Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "41015900536972",
+          "sku": "E13A1Y0808A",
+          "title": "S3 (EU 26 - 28) / Candy Floss",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42756628938892",
+          "sku": "E13A1Z1408A",
+          "title": "S3 (EU 26 - 28) / Aster Bloom",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "42369901396108",
+          "sku": "E13A1Y1308A",
+          "title": "S3 (EU 26 - 28) / Cross Court",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900438668",
+          "sku": "E13A1Z0108A",
+          "title": "S3 (EU 26 - 28) / Summer Swim",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42022312640652",
+          "sku": "E13A1Z0408A",
+          "title": "S3 (EU 26 - 28) / Happy Hopper",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "41015806525580",
+          "sku": "E13A1Z0308A",
+          "title": "S3 (EU 26 - 28) / Colour Pop",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "42987550343308",
+          "sku": "E13A1Z1508A",
+          "title": "S3 (EU 26 - 28) / Electro Buzz",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "41015900471436",
+          "sku": "E13A1Z0208A",
+          "title": "S3 (EU 26 - 28) / Space Surfer Red",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "41015900373132",
+          "sku": "E13A1Y0608A",
+          "title": "S3 (EU 26 - 28) / Submariner",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "41528051564684",
+          "sku": "E14A1Y1108A",
+          "title": "S4 (EU 29 - 31) / All Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900569740",
+          "sku": "E14A1Y0708A",
+          "title": "S4 (EU 29 - 31) / Classic Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "41015900766348",
+          "sku": "E14A1Y0808A",
+          "title": "S4 (EU 29 - 31) / Candy Floss",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42756628971660",
+          "sku": "E14A1Z1408A",
+          "title": "S4 (EU 29 - 31) / Aster Bloom",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "42369901428876",
+          "sku": "E14A1Y1308A",
+          "title": "S4 (EU 29 - 31) / Cross Court",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900668044",
+          "sku": "E14A1Z0108A",
+          "title": "S4 (EU 29 - 31) / Summer Swim",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42022312673420",
+          "sku": "E14A1Z0408A",
+          "title": "S4 (EU 29 - 31) / Happy Hopper",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "41015806591116",
+          "sku": "E14A1Z0308A",
+          "title": "S4 (EU 29 - 31) / Colour Pop",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "42987550376076",
+          "sku": "E14A1Z1508A",
+          "title": "S4 (EU 29 - 31) / Electro Buzz",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "41015900700812",
+          "sku": "E14A1Z0208A",
+          "title": "S4 (EU 29 - 31) / Space Surfer Red",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "41015900602508",
+          "sku": "E14A1Y0608A",
+          "title": "S4 (EU 29 - 31) / Submariner",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "41528051597452",
+          "sku": "E15A1Y1108A",
+          "title": "S5 (EU 32 - 34) / All Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900864652",
+          "sku": "E15A1Y0708A",
+          "title": "S5 (EU 32 - 34) / Classic Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "41015901061260",
+          "sku": "E15A1Y0808A",
+          "title": "S5 (EU 32 - 34) / Candy Floss",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42756629004428",
+          "sku": "E15A1Z1408A",
+          "title": "S5 (EU 32 - 34) / Aster Bloom",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "42369901461644",
+          "sku": "E15A1Y1308A",
+          "title": "S5 (EU 32 - 34) / Cross Court",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900962956",
+          "sku": "E15A1Z0108A",
+          "title": "S5 (EU 32 - 34) / Summer Swim",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42022312706188",
+          "sku": "E15A1Z0408A",
+          "title": "S5 (EU 32 - 34) / Happy Hopper",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "41015900831884",
+          "sku": "E15A1Z0308A",
+          "title": "S5 (EU 32 - 34) / Colour Pop",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "42987550408844",
+          "sku": "E15A1Z1508A",
+          "title": "S5 (EU 32 - 34) / Electro Buzz",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "41015900995724",
+          "sku": "E15A1Z0208A",
+          "title": "S5 (EU 32 - 34) / Space Surfer Red",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "41015900897420",
+          "sku": "E15A1Y0608A",
+          "title": "S5 (EU 32 - 34) / Submariner",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "41563194228876",
+          "sku": "E16A1Y1108A",
+          "title": "S6 (EU 35 - 37) / All Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2608,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41563193966732",
+          "sku": "E16A1Y0708A",
+          "title": "S6 (EU 35 - 37) / Classic Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "41563194163340",
+          "sku": "E16A1Y0808A",
+          "title": "S6 (EU 35 - 37) / Candy Floss",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42756629037196",
+          "sku": "E16A1Z1408A",
+          "title": "S6 (EU 35 - 37) / Aster Bloom",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "42369901494412",
+          "sku": "E16A1Y1308A",
+          "title": "S6 (EU 35 - 37) / Cross Court",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41563194097804",
+          "sku": "E16A1Z0108A",
+          "title": "S6 (EU 35 - 37) / Summer Swim",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42022312738956",
+          "sku": "E16A1Z0408A",
+          "title": "S6 (EU 35 - 37) / Happy Hopper",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "41563194065036",
+          "sku": "E16A1Z0308A",
+          "title": "S6 (EU 35 - 37) / Colour Pop",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "42987550441612",
+          "sku": "E16A1Z1508A",
+          "title": "S6 (EU 35 - 37) / Electro Buzz",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "41563194130572",
+          "sku": "E16A1Z0208A",
+          "title": "S6 (EU 35 - 37) / Space Surfer Red",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "41563193999500",
+          "sku": "E16A1Y0608A",
+          "title": "S6 (EU 35 - 37) / Submariner",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2608,
+      "mrp": 2999,
+      "discountPercent": 13,
+      "availableVariants": 51,
+      "totalVariants": 66,
+      "rating": 4.63,
+      "reviewCount": 591,
+      "displayedRating": 4.63,
+      "displayedReviewCount": 591,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462979592332",
+      "title": "Aretto Leaps Multicolor Kids Shoes",
+      "handle": "leaps-multicolour-kids-shoes-electrobuzz",
+      "url": "https://wearetto.com/products/leaps-multicolour-kids-shoes-electrobuzz",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Electro Buzz is not a shoe for a calm child and it wasn't designed as one. It's for the kid who hits the ground running and the parent who's tired of buying replacements because the last pair couldn't keep up. 1. SuperGrooves outsole grips across every surface this kid finds, expands across 3 sizes to absorb up to 18mm of foot growth before needing a replacement. One pair, lasting longer than expected, holding grip better than most. Wide toe box gives toes full freedom on takeoff and landing. Better spread means better balance, better propulsion, better everything that matters when you move at this pace. Zero-drop from toe to heel, the foot's natural position, posture and gait supported without anything constricting the movement that makes this shoe necessary. 2. SquishyFoam takes the impact of an all-day, high-energy schedule and gives it back as comfort. Barefoot feel preserved, hard landings softened. Infiknit knit upper in recycled polyester and spandex, pulls in every direction without resistance, breathes without needing vents, stays cool through the kind of play that ends with sweaty socks. 3. Slip-on with elastic flex because this kid is already at the door before you've finished asking. 4. Reinforced toe cap and heel because the wear patterns here are not gentle. Premium materials, durable construction, built for the full EU 20 to 37 growing range.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0366.jpg?v=1770035301",
+      "publishedAt": "2026-06-17T14:37:02+05:30",
+      "variants": [
+        {
+          "id": "50447550972044",
+          "sku": "E11A1Z1508A",
+          "title": "S1 (EU 20 - 22) / Electro Buzz",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50447551430796",
+          "sku": "E12A1Z1508A",
+          "title": "S2 (EU 23 - 25) / Electro Buzz",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50447551889548",
+          "sku": "E13A1Z1508A",
+          "title": "S3 (EU 26 - 28) / Electro Buzz",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "50447552348300",
+          "sku": "E14A1Z1508A",
+          "title": "S4 (EU 29 - 31) / Electro Buzz",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50447552807052",
+          "sku": "E15A1Z1508A",
+          "title": "S5 (EU 32 - 34) / Electro Buzz",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "50447553265804",
+          "sku": "E16A1Z1508A",
+          "title": "S6 (EU 35 - 37) / Electro Buzz",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3300,
+          "mrp": 3499,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3300,
+      "mrp": 3499,
+      "discountPercent": 5.7,
+      "availableVariants": 4,
+      "totalVariants": 6,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 519,
+      "reviewPoolProductCount": 5,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462978412684",
+      "title": "Aretto Leaps Navy Blue Kids Shoes",
+      "handle": "leaps-navy-blue-kids-shoes-submariner",
+      "url": "https://wearetto.com/products/leaps-navy-blue-kids-shoes-submariner",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Submariner is for the parent who picks the colourway because they thought about it and for the kid who wears it because it feels right without knowing exactly why. Considered on the outside, properly engineered underneath. 1. SuperGrooves patented sole expands as the foot does, 3 sizes, up to 18mm. Growth doesn't outpace the shoe. The sole keeps adjusting. Wide toe box because feet aren't narrow at the front and building a shoe as though they are causes problems that show up slowly and leave a mark. Zero-drop from heel to toe, the position kids naturally fall into when barefoot, the one that keeps gait and posture honest. 2. SquishyFoam underfoot, cushioned enough for hard surfaces, honest enough to keep the ground connection developing feet need. Infiknit upper knits around the foot in recycled polyester and spandex, offers 360-degree flexibility, breathes through long days without complaint, holds shape through months of daily wear. 3. Slip-on with elastic flex. Kids manage it without help, that's the whole point. 4. Reinforced at the failure points. Premium materials, not just in finish but in how they behave under daily use. EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0374.jpg?v=1770968860",
+      "publishedAt": "2026-06-17T14:36:58+05:30",
+      "variants": [
+        {
+          "id": "50447541272716",
+          "sku": "E11A1Y0608A",
+          "title": "S1 (EU 20 - 22) / Submariner",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50447541731468",
+          "sku": "E12A1Y0608A",
+          "title": "S2 (EU 23 - 25) / Submariner",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50447542190220",
+          "sku": "E13A1Y0608A",
+          "title": "S3 (EU 26 - 28) / Submariner",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50447542648972",
+          "sku": "E14A1Y0608A",
+          "title": "S4 (EU 29 - 31) / Submariner",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50447543107724",
+          "sku": "E15A1Y0608A",
+          "title": "S5 (EU 32 - 34) / Submariner",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50447543566476",
+          "sku": "E16A1Y0608A",
+          "title": "S6 (EU 35 - 37) / Submariner",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2625,
+      "mrp": 2699,
+      "discountPercent": 2.7,
+      "availableVariants": 3,
+      "totalVariants": 6,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 520,
+      "reviewPoolProductCount": 4,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462976741516",
+      "title": "Aretto Leaps Pink Kids Shoes",
+      "handle": "leaps-pink-kids-shoes-candy-floss",
+      "url": "https://wearetto.com/products/leaps-pink-kids-shoes-candy-floss",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Girls",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Candy Floss is for the kid who wants something that feels a little special and for the parent who isn't prepared to compromise on what that kids' shoe is actually doing for their child's feet. 1. SuperGrooves sole expands across 3 sizes, up to 18mm of real growth absorbed into one pair. It's a sole that physically adjusts as the foot does. The wide toe box is shaped around Natural Foot Shape research, meaning it matches how a small foot actually looks, broad at the front, not pinched into a narrower adult silhouette. Zero-drop heel to toe because that's what lets growing bones and posture develop the way they should. 2. SquishyFoam cushions without over-cushioning. The ground feel stays, which is exactly what developing feet need. Infiknit upper is soft, stretches without resistance in every direction, and breathes without needing to be told to. No dampness, no stiffness. 3. Slip-on with elastic flex. No laces, no argument. Kids manage it themselves and mornings stay manageable. 4. Reinforced where it matters, at the toe and heel, for the play that doesn't slow down for shoes. EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0359.jpg?v=1770968860",
+      "publishedAt": "2026-06-17T14:36:54+05:30",
+      "variants": [
+        {
+          "id": "50447528394892",
+          "sku": "E11A1Y0808A",
+          "title": "S1 (EU 20 - 22) / Candy Floss",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447528853644",
+          "sku": "E12A1Y0808A",
+          "title": "S2 (EU 23 - 25) / Candy Floss",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447529312396",
+          "sku": "E13A1Y0808A",
+          "title": "S3 (EU 26 - 28) / Candy Floss",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447529771148",
+          "sku": "E14A1Y0808A",
+          "title": "S4 (EU 29 - 31) / Candy Floss",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447530229900",
+          "sku": "E15A1Y0808A",
+          "title": "S5 (EU 32 - 34) / Candy Floss",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447530688652",
+          "sku": "E16A1Y0808A",
+          "title": "S6 (EU 35 - 37) / Candy Floss",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2625,
+      "mrp": 2999,
+      "discountPercent": 12.5,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 519,
+      "reviewPoolProductCount": 2,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462979100812",
+      "title": "Aretto Leaps Purple Kids Shoes",
+      "handle": "leaps-purple-kids-shoes-aster-bloom",
+      "url": "https://wearetto.com/products/leaps-purple-kids-shoes-aster-bloom",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Aster Bloom is for the kid who picks it off the shelf because of how it looks and for the parent who turns it over, checks the sole, reads the spec, and then decides. It holds up on both counts. 1. SuperGrooves outsole expands across 3 sizes, up to 18mm of foot growth managed without a replacement pair. Grips across surfaces because it was built for varied use, not one type of floor. Wide toe box mirrors how the front of a child's foot actually sits, broad, not tapered. Toes move freely, grip follows, balance holds. Zero-drop sole, heel and toe level, the natural position that supports growing posture without asking the child to compensate. 2. SquishyFoam doesn't over-cushion. It removes the hard edge off hard floors while keeping the ground connection that developing feet genuinely need. Infiknit upper is recycled polyester and spandex, soft against the foot, tough when tested, stretches in every direction, breathes through a full school day without stiffening when it dries. 3. Slip-on with elastic flex, self-managed. Light enough not to be noticed. Comfortable enough not to be complained about. 4. Reinforced at the toe and heel where the wear always concentrates. Built to last through the growing years. EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0383.jpg?v=1770035301",
+      "publishedAt": "2026-06-17T14:37:01+05:30",
+      "variants": [
+        {
+          "id": "50447547760780",
+          "sku": "E11A1Z1408A",
+          "title": "S1 (EU 20 - 22) / Aster Bloom",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50447548219532",
+          "sku": "E12A1Z1408A",
+          "title": "S2 (EU 23 - 25) / Aster Bloom",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50447548678284",
+          "sku": "E13A1Z1408A",
+          "title": "S3 (EU 26 - 28) / Aster Bloom",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50447549137036",
+          "sku": "E14A1Z1408A",
+          "title": "S4 (EU 29 - 31) / Aster Bloom",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50447549595788",
+          "sku": "E15A1Z1408A",
+          "title": "S5 (EU 32 - 34) / Aster Bloom",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50447550054540",
+          "sku": "E16A1Z1408A",
+          "title": "S6 (EU 35 - 37) / Aster Bloom",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3228,
+          "mrp": 3399,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3228,
+      "mrp": 3399,
+      "discountPercent": 5,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 519,
+      "reviewPoolProductCount": 5,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462975856780",
+      "title": "Aretto Leaps Red Kids Shoes",
+      "handle": "leaps-red-kids-shoes-colour-pop",
+      "url": "https://wearetto.com/products/leaps-red-kids-shoes-colour-pop",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Red is not a subtle choice, and neither is buying a shoe that's actually been designed around your child's foot. 1. Patented SuperGrooves sole expands with your child's foot across 3 sizes, up to 18mm of growth without buying a new pair. A wide toe box is wide because that's what feet are actually shaped like. Toes spread, grip improves. None of the cramping that shows up in shoes built around aesthetics rather than anatomy. Flat from toe to heel, zero-drop, because that's how feet work best when they're still growing. 2. SquishyFoam cushioning keeps every step comfortable without deadening the ground feel kids genuinely need. Infiknit upper is knit from recycled polyester and spandex, moves in every direction, breathes through long school hours, and doesn't get stiff after a few washes. It's light. Properly light. The kind of light where they're running before you've finished saying goodbye. 3. Slip-on design, elastic flex, no fuss in the morning. Comfortable enough for comfortable sitting for hours. 4. Sturdy enough for playground use. Reinforced at the spots that take the most punishment. Built to last through the kind of daily use that finishes most shoes by term two. EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0386_eea73722-8665-49da-a788-5dc728df9691.jpg?v=1770035301",
+      "publishedAt": "2026-06-17T14:36:51+05:30",
+      "variants": [
+        {
+          "id": "50447521742988",
+          "sku": "E11A1Z0308A",
+          "title": "S1 (EU 20 - 22) / Colour Pop",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50447522201740",
+          "sku": "E12A1Z0308A",
+          "title": "S2 (EU 23 - 25) / Colour Pop",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": false
+        },
+        {
+          "id": "50447522660492",
+          "sku": "E13A1Z0308A",
+          "title": "S3 (EU 26 - 28) / Colour Pop",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50447523119244",
+          "sku": "E14A1Z0308A",
+          "title": "S4 (EU 29 - 31) / Colour Pop",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50447523577996",
+          "sku": "E15A1Z0308A",
+          "title": "S5 (EU 32 - 34) / Colour Pop",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50447524036748",
+          "sku": "E16A1Z0308A",
+          "title": "S6 (EU 35 - 37) / Colour Pop",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2975,
+      "mrp": 3199,
+      "discountPercent": 7,
+      "availableVariants": 5,
+      "totalVariants": 6,
+      "rating": 4.73,
+      "reviewCount": 520,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 520,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462978838668",
+      "title": "Aretto Leaps Red Kids Shoes",
+      "handle": "leaps-kids-shoes-space-surfer-red",
+      "url": "https://wearetto.com/products/leaps-kids-shoes-space-surfer-red",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Space Surfer Red is the pick for the kid who lives at full speed and the parent who's done buying shoes that can't keep up with that. Bold colour, real engineering, and a sole that actually grows with the foot. 1. SuperGrooves patented sole expands as the foot grows. Three sizes, up to 18mm. The pair doesn't get outgrown in two months and shelved. Grip works on indoor and outdoor surfaces because it was designed for both. Wide toe box shaped around how kids' feet actually look, proportioned for the foot, not the adult template scaled smaller. Zero-drop underfoot, heel and toe on the same plane, supporting natural walking and healthy posture without the child having to think about any of it. 2. SquishyFoam absorbs the day without removing the ground feedback. Not too soft, not too firm, the balance that keeps both comfort and development working. Infiknit knit upper breathes and stretches at the same time, recycled polyester and spandex, no stiffness at the ankle, no pinch at the toe, no overheating by midday. 3. Slip-on with elastic flex. On and off fast, which is exactly how this kid shoes operates. 4. Reinforced toe and heel for the kind of play that earns a shoe its name. EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0387.jpg?v=1770968860",
+      "publishedAt": "2026-06-17T14:36:59+05:30",
+      "variants": [
+        {
+          "id": "50447544516748",
+          "sku": "E11A1Z0208A",
+          "title": "S1 (EU 20 - 22) / Space Surfer Red",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447544975500",
+          "sku": "E12A1Z0208A",
+          "title": "S2 (EU 23 - 25) / Space Surfer Red",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447545434252",
+          "sku": "E13A1Z0208A",
+          "title": "S3 (EU 26 - 28) / Space Surfer Red",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50447545893004",
+          "sku": "E14A1Z0208A",
+          "title": "S4 (EU 29 - 31) / Space Surfer Red",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50447546351756",
+          "sku": "E15A1Z0208A",
+          "title": "S5 (EU 32 - 34) / Space Surfer Red",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50447546810508",
+          "sku": "E16A1Z0208A",
+          "title": "S6 (EU 35 - 37) / Space Surfer Red",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": false
+        }
+      ],
+      "sellingPrice": 2625,
+      "mrp": 2999,
+      "discountPercent": 12.5,
+      "availableVariants": 2,
+      "totalVariants": 6,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 519,
+      "reviewPoolProductCount": 5,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462977527948",
+      "title": "Aretto Leaps Sky Blue Kids Shoes",
+      "handle": "leaps-sky-blue-kids-shoes-summer-swim",
+      "url": "https://wearetto.com/products/leaps-sky-blue-kids-shoes-summer-swim",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Summer Swim is for the months when shoes take the most punishment and parents have the least patience for replacing them. Built for warm weather, outdoor use, and feet that are growing faster than the season is moving. 1. SuperGrooves sole grips on wet, dry, and uneven surfaces, and expands across 3 sizes to handle up to 18mm of foot growth. Summer stretches out. Feet grow through it. This pair keeps up without needing a replacement. Wide toe box allows for the natural swelling that warm weather brings, toes stay comfortable, grip stays reliable. Zero-drop puts kids in the right position whether they're on flat ground or uneven terrain. 2. SquishyFoam cushions without holding heat. Infiknit upper is recycled polyester and spandex, breathes properly in warm weather, dries faster than most materials, and doesn't stiffen up between uses, lightweight, cool. Doesn't feel like a shoe in the middle of July. 3. Slip-on with elastic flex, manageable at the poolside or the park gate without any help. 4. Reinforced at the toe and heel because summer is rough on shoes and this pair is built to take it. EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0384_4f6a36d8-cee0-4a68-955d-d5a2b5708c79.jpg?v=1770968860",
+      "publishedAt": "2026-06-17T14:36:56+05:30",
+      "variants": [
+        {
+          "id": "50447534751884",
+          "sku": "E11A1Z0108A",
+          "title": "S1 (EU 20 - 22) / Summer Swim",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447535210636",
+          "sku": "E12A1Z0108A",
+          "title": "S2 (EU 23 - 25) / Summer Swim",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447535669388",
+          "sku": "E13A1Z0108A",
+          "title": "S3 (EU 26 - 28) / Summer Swim",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447536128140",
+          "sku": "E14A1Z0108A",
+          "title": "S4 (EU 29 - 31) / Summer Swim",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447536586892",
+          "sku": "E15A1Z0108A",
+          "title": "S5 (EU 32 - 34) / Summer Swim",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447537045644",
+          "sku": "E16A1Z0108A",
+          "title": "S6 (EU 35 - 37) / Summer Swim",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2999,
+      "mrp": 2999,
+      "discountPercent": 0,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 519,
+      "reviewPoolProductCount": 2,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462977003660",
+      "title": "Aretto Leaps White Kids Shoes",
+      "handle": "leaps-white-kids-shoes-cross-court",
+      "url": "https://wearetto.com/products/leaps-white-kids-shoes-cross-court",
+      "productType": "School Shoes",
+      "productTypeKey": "school-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [],
+      "description": "Most sport-style kids' shoes look the part and stop there. Cross Court is built for the parent who noticed that gap and went looking for something that actually performs, on the court, on the way to school, and everywhere in between. 1. SuperGrooves outsole grips across indoor and outdoor surfaces and expands across 3 sizes as the foot grows, up to 18mm before the pair needs replacing. That's not a stretch claim. The sole physically adjusts, which means you're not sizing up every few months because a toe is pressing the end. Wide toe box keeps toes from bunching on plant and push-off. Better spread, better grip, better movement overall. Zero-drop from heel to toe, the position that supports healthy posture and natural walking mechanics. 2. SquishyFoam insole handles long afternoons on hard floors, PE on concrete, the kind of day that finishes in tired legs. Cushioning that absorbs without disconnecting. Infiknit upper flexes without pinching during lateral movement, no heel slip, no overheating mid-run. 3. Slip-on with elastic flex because laces are not quick before PE class and shouldn't have to. 4. Reinforced at the front and back because these kids are not gentle with their shoes. Durable sole, premium materials. EU 20 to 37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0375.jpg?v=1770035301",
+      "publishedAt": "2026-06-17T14:36:55+05:30",
+      "variants": [
+        {
+          "id": "50447531376780",
+          "sku": "E11A1Y1308A",
+          "title": "S1 (EU 20 - 22) / Cross Court",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50447531835532",
+          "sku": "E12A1Y1308A",
+          "title": "S2 (EU 23 - 25) / Cross Court",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50447532294284",
+          "sku": "E13A1Y1308A",
+          "title": "S3 (EU 26 - 28) / Cross Court",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447532753036",
+          "sku": "E14A1Y1308A",
+          "title": "S4 (EU 29 - 31) / Cross Court",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447533211788",
+          "sku": "E15A1Y1308A",
+          "title": "S5 (EU 32 - 34) / Cross Court",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447533670540",
+          "sku": "E16A1Y1308A",
+          "title": "S6 (EU 35 - 37) / Cross Court",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2999,
+      "mrp": 2999,
+      "discountPercent": 0,
+      "availableVariants": 4,
+      "totalVariants": 6,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 519,
+      "reviewPoolProductCount": 5,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9068752863372",
+      "title": "Aretto Pixl",
+      "handle": "aretto-leaps-pixl",
+      "url": "https://wearetto.com/products/aretto-leaps-pixl",
+      "productType": "Shoes",
+      "productTypeKey": "shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "Aretto-pixel"
+      ],
+      "description": "From first leaps to giant strides. Aretto Leaps combines design and technology to give growing feet what they need most: freedom. With our patented expandable sole, they stretch up to 18mm—three sizes in one shoe. The result? A perfect fit that adapts as kids move, grow, and explore.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/S3_ArettoPix_Prem1457_3217dda5-3c2b-4873-9d77-abdcefb375c3.jpg?v=1774507159",
+      "publishedAt": "2026-06-12T16:12:58+05:30",
+      "variants": [
+        {
+          "id": "46918460997772",
+          "sku": "E11A5Z2208C",
+          "title": "S1 (EU 20 - 22) / Pixel Berry",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "47242764615820",
+          "sku": "E11A5Z2408C",
+          "title": "S1 (EU 20 - 22) / Mariana Blue",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "47242764812428",
+          "sku": "E11A5Z2308C",
+          "title": "S1 (EU 20 - 22) / Dune",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "47242764451980",
+          "sku": "E12A5Z2208C",
+          "title": "S2 (EU 23 - 25) / Pixel Berry",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "47242764648588",
+          "sku": "E12A5Z2408C",
+          "title": "S2 (EU 23 - 25) / Mariana Blue",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "47242764845196",
+          "sku": "E12A5Z2308C",
+          "title": "S2 (EU 23 - 25) / Dune",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "47242764484748",
+          "sku": "E13A5Z2208C",
+          "title": "S3 (EU 26 - 28) / Pixel Berry",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "47242764681356",
+          "sku": "E13A5Z2408C",
+          "title": "S3 (EU 26 - 28) / Mariana Blue",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "47242764877964",
+          "sku": "E13A5Z2308C",
+          "title": "S3 (EU 26 - 28) / Dune",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "47242764517516",
+          "sku": "E14A5Z2208C",
+          "title": "S4 (EU 29 - 31) / Pixel Berry",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "47242764714124",
+          "sku": "E14A5Z2408C",
+          "title": "S4 (EU 29 - 31) / Mariana Blue",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "47242764910732",
+          "sku": "E14A5Z2308C",
+          "title": "S4 (EU 29 - 31) / Dune",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "47653623693452",
+          "sku": "E15A5Z2208C",
+          "title": "S5 (EU 32 - 34) / Pixel Berry",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "47653623627916",
+          "sku": "E15A5Z2408C",
+          "title": "S5 (EU 32 - 34) / Mariana Blue",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "47653623758988",
+          "sku": "E15A5Z2308C",
+          "title": "S5 (EU 32 - 34) / Dune",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "47653623726220",
+          "sku": "E16A5Z2208C",
+          "title": "S6 (EU 35 - 37) / Pixel Berry",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "47653623660684",
+          "sku": "E16A5Z2408C",
+          "title": "S6 (EU 35 - 37) / Mariana Blue",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "47653623791756",
+          "sku": "E16A5Z2308C",
+          "title": "S6 (EU 35 - 37) / Dune",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3299,
+      "mrp": 3299,
+      "discountPercent": 0,
+      "availableVariants": 18,
+      "totalVariants": 18,
+      "rating": 4.62,
+      "reviewCount": 127,
+      "displayedRating": 4.62,
+      "displayedReviewCount": 127,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9490176540812",
+      "title": "Aretto Pixl Blue Kids Shoes",
+      "handle": "leaps-pixl-blue-kids-shoes-mariana",
+      "url": "https://wearetto.com/products/leaps-pixl-blue-kids-shoes-mariana",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "Aretto-pixel"
+      ],
+      "description": "Ask a kid to walk from point A to point B and somehow they'll turn it into an obstacle course. PIXL Mariana Blue is built for exactly that kind of unpredictable movement. 1. Sized to Keep Pace - With a Supergrooves sole expanding through 3 full sizes (18mm), this shoe doesn't fall behind as feet grow. Toes get plenty of room thanks to the wide toe box, which means steadier footing and better balance during all that running. The zero-drop sole keeps everything level, mimicking the stance feet take with no shoes on at all. Rather than shrinking an adult shoe pattern down, this one starts from kid proportions instead. 2. Soft Landings All Day - Step after step, the SquishyFoam insole cushions the landing, keeping that grounded feel intact. Movement doesn't get restricted either, the Infiknit upper flexes wherever the foot goes, zero pinching. Even with a day full of running and jumping, the lightweight build means energy goes toward play, not fighting heavy shoes. Breathability keeps feet from overheating no matter how long the school day runs. 3. No Fuss, Just Wear - Mornings move faster with no lacing involved, just a stretchy, slip-on fit kids handle themselves. The same pair transitions easily from classroom to sports field to weekend plans. Takes a beating on the playground without falling apart, yet stays soft enough for hours of sitting in class. 4. Made to Outlast the Chaos - Scrapes happen, especially around the toe and heel, which is exactly where the reinforcement sits. Tile indoors or grass outside, the outsole holds grip either way. Durability was clearly the priority choosing materials, though comfort never got left behind. Available in sizes S1 through S6.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/S3_ArettoPix_Mariana.jpg?v=1787232234",
+      "publishedAt": "2026-06-17T14:37:04+05:30",
+      "variants": [
+        {
+          "id": "50696903753868",
+          "sku": "E11A5Z2408C",
+          "title": "S1 (EU 20 - 22) / Mariana Blue",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50696903852172",
+          "sku": "E12A5Z2408C",
+          "title": "S2 (EU 23 - 25) / Mariana Blue",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50696903950476",
+          "sku": "E13A5Z2408C",
+          "title": "S3 (EU 26 - 28) / Mariana Blue",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50696904048780",
+          "sku": "E14A5Z2408C",
+          "title": "S4 (EU 29 - 31) / Mariana Blue",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50696904147084",
+          "sku": "E15A5Z2408C",
+          "title": "S5 (EU 32 - 34) / Mariana Blue",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50696904245388",
+          "sku": "E16A5Z2408C",
+          "title": "S6 (EU 35 - 37) / Mariana Blue",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3399,
+      "mrp": 3399,
+      "discountPercent": 0,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 4.73,
+      "reviewCount": 59,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 59,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9490176508044",
+      "title": "Aretto Pixl Pink Kids Shoes",
+      "handle": "leaps-pixl-pink-kids-shoes-pixel-berry",
+      "url": "https://wearetto.com/products/leaps-pixl-pink-kids-shoes-pixel-berry",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Girls",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "Aretto-pixel"
+      ],
+      "description": "There's no such thing as a calm five minutes once kids’ starts moving. One second they're standing still, next they're three rooms away. PIXL Berry was made with that in mind. 1. Built for the Growth Spurts -The Supergrooves sole stretches across 3 sizes (18mm), so there's no rushing back to the store every couple months. A wide toe box means toes get room to actually spread instead of bunching up, and that little bit of space makes a real difference for grip and balance. Since the sole sits flat with zero drop, feet land the way they naturally would, no shoes involved. None of it's copied from an adult shoe shrunk down either, it's built around how kid feet are actually shaped. 2. Made for the Long Haul - Every step gets cushioned by the SquishyFoam insole, so there's less impact reaching tired feet by afternoon. The Infiknit upper isn't stiff in the slightest, it bends and stretches right along with whatever the foot's doing. Even with all that flexibility, the shoe stays light, so legs give out before feet do. And because the fabric breathes, feet aren't stewing by the end of a school day. 3. Made for Busy Mornings - No laces here, just elastic and a slip-on fit, so even a five-year-old can manage getting dressed alone. School day, weekend match, errands, this one pair covers all of it. Holds up fine on the playground, but it's not too stiff to sit through a long stretch of class either. 4. Hold Up to Rough Play - Both toe and heel get extra reinforcement, since that's usually where scuffing starts first. The outsole doesn't lose grip switching between tile, pavement, or grass. Everything about the materials leans toward lasting longer, not just looking good for a week. Comes in sizes S1 through S6.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/S3_ArettoPix_Prem1457_3217dda5-3c2b-4873-9d77-abdcefb375c3.jpg?v=1774507159",
+      "publishedAt": "2026-06-17T14:37:03+05:30",
+      "variants": [
+        {
+          "id": "50696903131276",
+          "sku": "E11A5Z2208C",
+          "title": "S1 (EU 20 - 22) / Pixel Berry",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50696903229580",
+          "sku": "E12A5Z2208C",
+          "title": "S2 (EU 23 - 25) / Pixel Berry",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50696903327884",
+          "sku": "E13A5Z2208C",
+          "title": "S3 (EU 26 - 28) / Pixel Berry",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50696903426188",
+          "sku": "E14A5Z2208C",
+          "title": "S4 (EU 29 - 31) / Pixel Berry",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50696903524492",
+          "sku": "E15A5Z2208C",
+          "title": "S5 (EU 32 - 34) / Pixel Berry",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        },
+        {
+          "id": "50696903622796",
+          "sku": "E16A5Z2208C",
+          "title": "S6 (EU 35 - 37) / Pixel Berry",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3299,
+          "mrp": 3299,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3299,
+      "mrp": 3299,
+      "discountPercent": 0,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 4.75,
+      "reviewCount": 60,
+      "displayedRating": 4.75,
+      "displayedReviewCount": 60,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9490176606348",
+      "title": "Aretto Pixl Sand Beige Kids Shoes",
+      "handle": "leaps-pixl-sand-beige-kids-shoes-dune",
+      "url": "https://wearetto.com/products/leaps-pixl-sand-beige-kids-shoes-dune",
+      "productType": "Sneakers",
+      "productTypeKey": "sneakers",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "Aretto-pixel"
+      ],
+      "description": "A clean shoe rarely stays clean for long once a kid's involved. PIXL Dune doesn't fight that, it's built to handle the mess instead. 1. Room to Grow Into - Thanks to a Supergrooves sole stretching across 3 sizes (18mm), one pair lasts well beyond the usual shoe lifespan. The wide toe box leaves room for toes to spread naturally, supporting better grip and balance during active play. A zero-drop sole keeps the foot flat, close to how it'd move barefoot. Everything about the shape comes from real kid feet, not a scaled-down adult version. 2. Comfort That Doesn't Quit - The SquishyFoam insole absorbs shock from every run, jump, or sudden stop. As the foot moves, the Infiknit upper moves too, stretching without ever pinching. Despite the durability built in, the shoe stays lightweight, so kids don't slow down because of it. Breathable fabric also means feet stay cooler and drier, even through a full afternoon of play. 3. Ready in Seconds - Getting ready takes less time with a slip-on fit and stretchy elastic instead of laces. Same pair works for school mornings, sports practice, and weekend outings alike. Holds up fine after rough play outside, but it's still comfortable enough for a long stretch at a desk. 4. Built to Handle the Mess - Toe and heel are reinforced to handle the scuffs that come from everyday wear and tear. Grip stays consistent across wet or dry surfaces, tile or grass. Materials are chosen to handle daily use without compromising on comfort. Sizes run from S1 to S6.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/S3_ArettoPix_Prem1477_aef39335-ca55-4875-bb87-b9576bd5be7a.jpg?v=1775209683",
+      "publishedAt": "2026-06-17T14:37:05+05:30",
+      "variants": [
+        {
+          "id": "50696904507532",
+          "sku": "E11A5Z2308C",
+          "title": "S1 (EU 20 - 22) / Dune",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50696904605836",
+          "sku": "E12A5Z2308C",
+          "title": "S2 (EU 23 - 25) / Dune",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50696904704140",
+          "sku": "E13A5Z2308C",
+          "title": "S3 (EU 26 - 28) / Dune",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50696904802444",
+          "sku": "E14A5Z2308C",
+          "title": "S4 (EU 29 - 31) / Dune",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50696904900748",
+          "sku": "E15A5Z2308C",
+          "title": "S5 (EU 32 - 34) / Dune",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        },
+        {
+          "id": "50696904999052",
+          "sku": "E16A5Z2308C",
+          "title": "S6 (EU 35 - 37) / Dune",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3599,
+          "mrp": 3599,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3599,
+      "mrp": 3599,
+      "discountPercent": 0,
+      "availableVariants": 6,
+      "totalVariants": 6,
+      "rating": 4.77,
+      "reviewCount": 60,
+      "displayedRating": 4.77,
+      "displayedReviewCount": 60,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9508864983180",
+      "title": "Aretto SmartFit",
+      "handle": "aretto-smartfit",
+      "url": "https://wearetto.com/products/aretto-smartfit",
+      "productType": "Shoes",
+      "productTypeKey": "shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years",
+        "3-6-years",
+        "6-9-years",
+        "9-16-years"
+      ],
+      "tags": [
+        "Aretto-pixel"
+      ],
+      "description": "From first leaps to giant strides. Aretto Leaps combines design and technology to give growing feet what they need most: freedom. With our patented expandable sole, they stretch up to 18mm—three sizes in one shoe. The result? A perfect fit that adapts as kids move, grow, and explore.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S3R_0380_dafc9906-b204-4cf2-a56b-c66734ab5c1f.jpg?v=1770035301",
+      "publishedAt": "2026-06-20T17:01:55+05:30",
+      "variants": [
+        {
+          "id": "50848648364172",
+          "sku": "E11A1Y1108A",
+          "title": "S1 (EU 20 - 22) / All Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848648429708",
+          "sku": "E11A1Y1308A",
+          "title": "S1 (EU 20 - 22) / Cross Court",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50848648233100",
+          "sku": "E11A1Z0308A",
+          "title": "S1 (EU 20 - 22) / Colour Pop",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50848648265868",
+          "sku": "E11A1Z1508A",
+          "title": "S1 (EU 20 - 22) / Electro Buzz",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50848648298636",
+          "sku": "E11A1Y0808A",
+          "title": "S1 (EU 20 - 22) / Candy Floss",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848648331404",
+          "sku": "E11A1Z1408A",
+          "title": "S1 (EU 20 - 22) / Aster Bloom",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848648396940",
+          "sku": "E11A1Y0708A",
+          "title": "S1 (EU 20 - 22) / Classic Black",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848648462476",
+          "sku": "E11A1Z0108A",
+          "title": "S1 (EU 20 - 22) / Summer Swim",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848648495244",
+          "sku": "E11A1Z0408A",
+          "title": "S1 (EU 20 - 22) / Happy Hopper",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848648528012",
+          "sku": "E11A1Y0608A",
+          "title": "S1 (EU 20 - 22) / Submariner",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50848648560780",
+          "sku": "E11A1Z0208A",
+          "title": "S1 (EU 20 - 22) / Space Surfer Red",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848648822924",
+          "sku": "E12A1Y1108A",
+          "title": "S2 (EU 23 - 25) / All Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848648888460",
+          "sku": "E12A1Y1308A",
+          "title": "S2 (EU 23 - 25) / Cross Court",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50848648691852",
+          "sku": "E12A1Z0308A",
+          "title": "S2 (EU 23 - 25) / Colour Pop",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": false
+        },
+        {
+          "id": "50848648724620",
+          "sku": "E12A1Z1508A",
+          "title": "S2 (EU 23 - 25) / Electro Buzz",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50848648757388",
+          "sku": "E12A1Y0808A",
+          "title": "S2 (EU 23 - 25) / Candy Floss",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848648790156",
+          "sku": "E12A1Z1408A",
+          "title": "S2 (EU 23 - 25) / Aster Bloom",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848648855692",
+          "sku": "E12A1Y0708A",
+          "title": "S2 (EU 23 - 25) / Classic Black",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848648921228",
+          "sku": "E12A1Z0108A",
+          "title": "S2 (EU 23 - 25) / Summer Swim",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848648953996",
+          "sku": "E12A1Z0408A",
+          "title": "S2 (EU 23 - 25) / Happy Hopper",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50848648986764",
+          "sku": "E12A1Y0608A",
+          "title": "S2 (EU 23 - 25) / Submariner",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50848649019532",
+          "sku": "E12A1Z0208A",
+          "title": "S2 (EU 23 - 25) / Space Surfer Red",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649281676",
+          "sku": "E13A1Y1108A",
+          "title": "S3 (EU 26 - 28) / All Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649347212",
+          "sku": "E13A1Y1308A",
+          "title": "S3 (EU 26 - 28) / Cross Court",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649150604",
+          "sku": "E13A1Z0308A",
+          "title": "S3 (EU 26 - 28) / Colour Pop",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50848649183372",
+          "sku": "E13A1Z1508A",
+          "title": "S3 (EU 26 - 28) / Electro Buzz",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "50848649216140",
+          "sku": "E13A1Y0808A",
+          "title": "S3 (EU 26 - 28) / Candy Floss",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649248908",
+          "sku": "E13A1Z1408A",
+          "title": "S3 (EU 26 - 28) / Aster Bloom",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848649314444",
+          "sku": "E13A1Y0708A",
+          "title": "S3 (EU 26 - 28) / Classic Black",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848649379980",
+          "sku": "E13A1Z0108A",
+          "title": "S3 (EU 26 - 28) / Summer Swim",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649412748",
+          "sku": "E13A1Z0408A",
+          "title": "S3 (EU 26 - 28) / Happy Hopper",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848649445516",
+          "sku": "E13A1Y0608A",
+          "title": "S3 (EU 26 - 28) / Submariner",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": false
+        },
+        {
+          "id": "50848649478284",
+          "sku": "E13A1Z0208A",
+          "title": "S3 (EU 26 - 28) / Space Surfer Red",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50848649740428",
+          "sku": "E14A1Y1108A",
+          "title": "S4 (EU 29 - 31) / All Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649805964",
+          "sku": "E14A1Y1308A",
+          "title": "S4 (EU 29 - 31) / Cross Court",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649609356",
+          "sku": "E14A1Z0308A",
+          "title": "S4 (EU 29 - 31) / Colour Pop",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50848649642124",
+          "sku": "E14A1Z1508A",
+          "title": "S4 (EU 29 - 31) / Electro Buzz",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50848649674892",
+          "sku": "E14A1Y0808A",
+          "title": "S4 (EU 29 - 31) / Candy Floss",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649707660",
+          "sku": "E14A1Z1408A",
+          "title": "S4 (EU 29 - 31) / Aster Bloom",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848649773196",
+          "sku": "E14A1Y0708A",
+          "title": "S4 (EU 29 - 31) / Classic Black",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848649838732",
+          "sku": "E14A1Z0108A",
+          "title": "S4 (EU 29 - 31) / Summer Swim",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848649871500",
+          "sku": "E14A1Z0408A",
+          "title": "S4 (EU 29 - 31) / Happy Hopper",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50848649904268",
+          "sku": "E14A1Y0608A",
+          "title": "S4 (EU 29 - 31) / Submariner",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848649937036",
+          "sku": "E14A1Z0208A",
+          "title": "S4 (EU 29 - 31) / Space Surfer Red",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50848650199180",
+          "sku": "E15A1Y1108A",
+          "title": "S5 (EU 32 - 34) / All Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848650264716",
+          "sku": "E15A1Y1308A",
+          "title": "S5 (EU 32 - 34) / Cross Court",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848650068108",
+          "sku": "E15A1Z0308A",
+          "title": "S5 (EU 32 - 34) / Colour Pop",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50848650100876",
+          "sku": "E15A1Z1508A",
+          "title": "S5 (EU 32 - 34) / Electro Buzz",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": false
+        },
+        {
+          "id": "50848650133644",
+          "sku": "E15A1Y0808A",
+          "title": "S5 (EU 32 - 34) / Candy Floss",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848650166412",
+          "sku": "E15A1Z1408A",
+          "title": "S5 (EU 32 - 34) / Aster Bloom",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848650231948",
+          "sku": "E15A1Y0708A",
+          "title": "S5 (EU 32 - 34) / Classic Black",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848650297484",
+          "sku": "E15A1Z0108A",
+          "title": "S5 (EU 32 - 34) / Summer Swim",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848650330252",
+          "sku": "E15A1Z0408A",
+          "title": "S5 (EU 32 - 34) / Happy Hopper",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848650363020",
+          "sku": "E15A1Y0608A",
+          "title": "S5 (EU 32 - 34) / Submariner",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848650395788",
+          "sku": "E15A1Z0208A",
+          "title": "S5 (EU 32 - 34) / Space Surfer Red",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50848650657932",
+          "sku": "E16A1Y1108A",
+          "title": "S6 (EU 35 - 37) / All Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848650723468",
+          "sku": "E16A1Y1308A",
+          "title": "S6 (EU 35 - 37) / Cross Court",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848650526860",
+          "sku": "E16A1Z0308A",
+          "title": "S6 (EU 35 - 37) / Colour Pop",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        },
+        {
+          "id": "50848650559628",
+          "sku": "E16A1Z1508A",
+          "title": "S6 (EU 35 - 37) / Electro Buzz",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
+        },
+        {
+          "id": "50848650592396",
+          "sku": "E16A1Y0808A",
+          "title": "S6 (EU 35 - 37) / Candy Floss",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848650625164",
+          "sku": "E16A1Z1408A",
+          "title": "S6 (EU 35 - 37) / Aster Bloom",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50848650690700",
+          "sku": "E16A1Y0708A",
+          "title": "S6 (EU 35 - 37) / Classic Black",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848650756236",
+          "sku": "E16A1Z0108A",
+          "title": "S6 (EU 35 - 37) / Summer Swim",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50848650789004",
+          "sku": "E16A1Z0408A",
+          "title": "S6 (EU 35 - 37) / Happy Hopper",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50848650821772",
+          "sku": "E16A1Y0608A",
+          "title": "S6 (EU 35 - 37) / Submariner",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2699,
+          "mrp": 2699,
+          "available": true
+        },
+        {
+          "id": "50848650854540",
+          "sku": "E16A1Z0208A",
+          "title": "S6 (EU 35 - 37) / Space Surfer Red",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": false
+        }
+      ],
+      "sellingPrice": 2699,
+      "mrp": 2699,
+      "discountPercent": 0,
+      "availableVariants": 51,
+      "totalVariants": 66,
+      "rating": 4.73,
+      "reviewCount": 521,
+      "displayedRating": 4.73,
+      "displayedReviewCount": 521,
+      "reviewPoolProductCount": 2,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "8162337194124",
+      "title": "Aretto TYNY",
+      "handle": "aretto-tyny",
+      "url": "https://wearetto.com/products/aretto-tyny",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "TYNY takes your baby from first wobbles to steady strides, expanding through three sizes so the fit stays right as they grow. Lightweight, flexible, and always supportive—TYNY gives little feet the freedom to move naturally and the confidence to keep going.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0863.jpg?v=1771913547",
+      "publishedAt": "2025-05-20T17:22:05+05:30",
+      "variants": [
+        {
+          "id": "44127270273164",
+          "sku": "E10A2Y1808B",
+          "title": "S0 (EU 18 - 19) / Sunny Splash",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "44127270371468",
+          "sku": "E10A2Y2108B",
+          "title": "S0 (EU 18 - 19) / Bubble Blush",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "44127270305932",
+          "sku": "E10A2Y1908B",
+          "title": "S0 (EU 18 - 19) / Berry Blossom",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "44127270338700",
+          "sku": "E10A2Y2008B",
+          "title": "S0 (EU 18 - 19) / Super Trooper",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "44127269027980",
+          "sku": "E10A2Y1708B",
+          "title": "S0 (EU 18 - 19) / Captain A",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": false
+        },
+        {
+          "id": "49541539725452",
+          "sku": "E11A2Y1808B",
+          "title": "S1 (EU 20 -22) / Sunny Splash",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "49541539692684",
+          "sku": "E11A2Y2108B",
+          "title": "S1 (EU 20 -22) / Bubble Blush",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "49541539823756",
+          "sku": "E11A2Y1908B",
+          "title": "S1 (EU 20 -22) / Berry Blossom",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "49541539758220",
+          "sku": "E11A2Y2008B",
+          "title": "S1 (EU 20 -22) / Super Trooper",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "49541539790988",
+          "sku": "E11A2Y1708B",
+          "title": "S1 (EU 20 -22) / Captain A",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2799,
+      "mrp": 2999,
+      "discountPercent": 6.7,
+      "availableVariants": 6,
+      "totalVariants": 10,
+      "rating": 4.75,
+      "reviewCount": 44,
+      "displayedRating": 4.75,
+      "displayedReviewCount": 44,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462959210636",
+      "title": "Aretto TYNY Blue Baby Shoes",
+      "handle": "tyny-blue-baby-shoes-super-trooper",
+      "url": "https://wearetto.com/products/tyny-blue-baby-shoes-super-trooper",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "TYNY Super Trooper is for the baby who's always on the move, crawling one minute, pulling up to stand the next. 1. Designed for Growing Feet- Supergrooves sole stretches up to 3 sizes (18mm), so this pair sticks around through more than one growth spurt. Wide toe box lets tiny toes spread and grip properly, supporting balance as babies start to stand and step. Zero-drop sole keeps the foot flat and grounded, same as barefoot. Built on real baby foot shapes, not a smaller adult sole. 2. All-Day Comfort - SquishyFoam insoles take the impact from every crawl and wobble so feet stay comfortable. Infiknit upper flexes through every kick and stretch, no pinching anywhere. Lightweight, so it's easy movement, not tired little feet. Breathable knit keeps things cool even after a busy, active day. 3. Practical for Everyday Life - Slip-on with elastic flex, quick and easy for caregivers on busy mornings. Works for tummy time, cruising, short walks, anywhere shoes are needed. Tough enough for floor play, comfortable enough to forget about. 4. Built to Last - Reinforced toe and heel take the scuffing from all that dragging and bumping. Outsole holds traction across surfaces, wet tile included. Materials built to survive the early, messy years. Sizes EU 20–37.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0845.jpg?v=1756962792",
+      "publishedAt": "2026-06-17T14:53:49+05:30",
+      "variants": [
+        {
+          "id": "50447494348940",
+          "sku": "E10A2Y2008B",
+          "title": "S0 (EU 18 - 19) / Super Trooper",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        },
+        {
+          "id": "50447494512780",
+          "sku": "E11A2Y2008B",
+          "title": "S1 (EU 20 -22) / Super Trooper",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3399,
+      "mrp": 3399,
+      "discountPercent": 0,
+      "availableVariants": 1,
+      "totalVariants": 2,
+      "rating": 4.85,
+      "reviewCount": 34,
+      "displayedRating": 4.85,
+      "displayedReviewCount": 34,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9490226086028",
+      "title": "Aretto TYNY Gift Box Pink Baby Shoes",
+      "handle": "tyny-gift-box-pink-baby-shoes-bubble-blush",
+      "url": "https://wearetto.com/products/tyny-gift-box-pink-baby-shoes-bubble-blush",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [
+        "Gokwik_cod_blocking",
+        "no-cod",
+        "no-discount",
+        "no_return"
+      ],
+      "description": "Soft pink, white knit, and a toe-shaped sole that makes tiny feet look impossibly tiny - Bubble Blush is the kind of newborn baby gift that gets an \"aww\" the second the box opens. It's not just a cute shoe, though. Tucked inside is a full Tyny gift set built for a baby who's just arrived and a family that's about to fall in love with every inch of her. Who is it made for? * Newborn baby gifts for a baby girl's homecoming * Baby shower gifts, when you want something, the mum-to-be will actually unwrap and gasp at * Baby gift set for girls - soft pink, gentle, not overly frilly * Birthday gifts for a first birthday, when she's stepping into her next shoe size * For grandparents, aunts, or best friends who want to gift something memorable, not generic What's included? * Tyny shoes in Bubble Blush, designed to expand across 3 sizes as she grows * 1 pair of soft matching socks * 1 wooden car, smooth-edged and just the right size for small hands * 1 Tyny Adventure Passport, to mark her little milestones as they happen Why Aretto Gift Set? Newborn gifts have a habit of being forgotten. A blanket gets folded away, and a soft toy joins twenty others. What we wanted with Bubble Blush was something different, a set that's actually used, week after week, not just admired once and packed into a cupboard. That starts with the shoes. They're not \"newborn shoes\" in the way most people picture them, stiff, decorative, the kind that come off the moment baby kicks her legs. These expand across three sizes, so the same pair fits her now and keeps fitting for months after. For a newborn gift specifically, that's the whole point. You're not buying something she'll outgrow in six weeks. You're buying something that grows with her. Then there's the wooden car and the socks, small but real, things she'll actually hold, actually wear. And the Adventure Passport is our favorite bit, it's there for the parents really, a quiet little spot to note down her first outing, her first walk, her first everything. Years from now, somebody opens that passport and remembers exactly when it all began. It's a newborn baby gift that doesn't just mark the occasion. It sticks around for it.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0863.jpg?v=1771913547",
+      "publishedAt": "2026-06-17T14:53:50+05:30",
+      "variants": [
+        {
+          "id": "50697080766604",
+          "sku": "E10A4Y2108B",
+          "title": "S0 (EU 18 - 19) / Bubble Blush",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": false
+        }
+      ],
+      "sellingPrice": 2799,
+      "mrp": 2999,
+      "discountPercent": 6.7,
+      "availableVariants": 0,
+      "totalVariants": 1,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 0,
+      "displayedReviewCount": 0,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9490226282636",
+      "title": "Aretto TYNY Gift Box Red Baby Shoes",
+      "handle": "tyny-gift-box-red-baby-shoes-captain-a",
+      "url": "https://wearetto.com/products/tyny-gift-box-red-baby-shoes-captain-a",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [
+        "Gokwik_cod_blocking",
+        "no-cod",
+        "no-discount",
+        "no_return"
+      ],
+      "description": "Red, white, and blue with a little lightning badge on the strap, Captain A looks like it was made for a baby who's already got places to be. This isn't your average newborn baby gift box; it's a full Tyny set built around one idea: every baby is already on an adventure, they just need the gear for it. Who is it made for? * Baby gift set for boys, with a bold, hero-inspired colorway * Newborn baby gifts for a new arrival who needs his first proper pair of shoes * Baby shower gifts for parents who'd rather skip the tenth onesie * Birthday gifts as he moves up a size and into his next stage * For dads, uncles, or friends who want to gift something that actually feels exciting to hand over What's included? * Tyny shoes in Captain A, expandable across 3 sizes * 1 pair of matching socks * 1 wooden car, built for those first push-and-go moments * 1 Tyny Adventure Passport, to log his early milestones Why Aretto Gift Set? Here's something most people don't think about when they're buying a newborn gift, the actual shoe rarely lasts. Baby's foot changes shape and size faster than anyone expects, and most \"first shoes\" are retired within weeks. Captain A was built to dodge that exact problem. The same pair expands across three sizes, so it's not a one-time gift; it's something that's still on his feet months later. Captain A isn't dressed up to look like a \"big boy\" shoe before he's ready for one. It's dressed up to last through the actual newborn stage, then keep going right past it. That's a rare thing in a baby gift, and it's exactly why this one's worth giving.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0851.jpg?v=1771913547",
+      "publishedAt": "2026-06-17T14:53:52+05:30",
+      "variants": [
+        {
+          "id": "50697081192588",
+          "sku": "E10A4Y1708B",
+          "title": "S0 (EU 18 - 19) / Captain A",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": false
+        }
+      ],
+      "sellingPrice": 3199,
+      "mrp": 3199,
+      "discountPercent": 0,
+      "availableVariants": 0,
+      "totalVariants": 1,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 0,
+      "displayedReviewCount": 0,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9490226184332",
+      "title": "Aretto TYNY Gift Box Sky Blue Baby Shoes",
+      "handle": "tyny-gift-box-blue-baby-shoes-sunny-splash-sky",
+      "url": "https://wearetto.com/products/tyny-gift-box-blue-baby-shoes-sunny-splash-sky",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [
+        "Gokwik_cod_blocking",
+        "no-cod",
+        "no-discount",
+        "no_return"
+      ],
+      "description": "Sky blue and sunshine yellow, Sunny Splash is the gift set that feels like good weather in a box. It's bright without being loud, playful without trying too hard, and it comes as a full Tyny set, not just a shoe, built with one newborn baby in mind and everyone who's about to love her. Who is it made for? * Newborn baby gifts that work for either a boy or a girl, no guessing needed * Baby shower gifts for parents who appreciate something a little different from the usual * Baby gift set for birthdays, sized up as the baby grows into the next stage. * Gender-neutral baby gifts for friends who don't know (or don't want to know) what's coming * For colleagues, neighbors, or friends-of-friends who want a thoughtful, no-fuss gift What's included? * Tyny shoes in Sunny Splash, expandable across 3 sizes * 1 pair of socks to match * 1 wooden car, simple and built to be played with, not just looked at * 1 Tyny Adventure Passport, for tracking those early baby milestones Why Aretto Gift Set? If you've ever bought a baby gift without knowing the baby's name yet, you know the dilemma: do you go pink, do you go blue, or do you just play it safe with a plain white onesie? Sunny Splash exists for exactly that moment. It's bright, it's cheerful, and it doesn't ask you to guess. But the bigger reason this set works as a newborn gift is the shoe itself. Most baby shoes are built for a single size and a short shelf life, gone the moment a baby's foot grows half a centimeter. Sunny Splash's Supergrooves sole expands across three sizes, so what you're handing over isn't a \"right now\" gift, it's a \"for the next several months\" gift. That matters more for newborns than almost any other age, because that's when feet change the fastest.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0869_1a05b2ad-9bc0-4c9f-8f19-18784b5dccfc.jpg?v=1771913547",
+      "publishedAt": "2026-06-17T14:53:51+05:30",
+      "variants": [
+        {
+          "id": "50697081028748",
+          "sku": "E10A4Y1808B",
+          "title": "S0 (EU 18 - 19) / Sunny Splash",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2799,
+      "mrp": 2999,
+      "discountPercent": 6.7,
+      "availableVariants": 1,
+      "totalVariants": 1,
+      "rating": 0,
+      "reviewCount": 0,
+      "displayedRating": 0,
+      "displayedReviewCount": 0,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "8985080889484",
+      "title": "Aretto TYNY Gift Pack",
+      "handle": "aretto-tyny-gift-box",
+      "url": "https://wearetto.com/products/aretto-tyny-gift-box",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [
+        "Gokwik_cod_blocking",
+        "no-cod",
+        "no-discount",
+        "no_return"
+      ],
+      "description": "TYNY takes your baby from first wobbles to steady strides, expanding through three sizes so the fit stays right as they grow. Lightweight, flexible, and always supportive—TYNY gives little feet the freedom to move naturally and the confidence to keep going.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0863.jpg?v=1771913547",
+      "publishedAt": "2026-02-18T20:03:54+05:30",
+      "variants": [
+        {
+          "id": "46301658579084",
+          "sku": "E10A4Y2108B",
+          "title": "S0 (EU 18 - 19) / Bubble Blush",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "46301658611852",
+          "sku": "E10A4Y1808B",
+          "title": "S0 (EU 18 - 19) / Sunny Splash",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "46301658677388",
+          "sku": "E10A4Y1708B",
+          "title": "S0 (EU 18 - 19) / Captain A",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": false
+        }
+      ],
+      "sellingPrice": 2799,
+      "mrp": 2999,
+      "discountPercent": 6.7,
+      "availableVariants": 1,
+      "totalVariants": 3,
+      "rating": 3,
+      "reviewCount": 1,
+      "displayedRating": 3,
+      "displayedReviewCount": 1,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9490262163596",
+      "title": "Aretto TYNY Pink Baby Shoes",
+      "handle": "tyny-pink-baby-shoes-bubble-blush",
+      "url": "https://wearetto.com/products/tyny-pink-baby-shoes-bubble-blush",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "TYNY takes your baby from first wobbles to steady strides, expanding through three sizes so the fit stays right as they grow. Lightweight, flexible, and always supportive—TYNY gives little feet the freedom to move naturally and the confidence to keep going.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0863.jpg?v=1771913547",
+      "publishedAt": "2026-06-17T14:53:52+05:30",
+      "variants": [
+        {
+          "id": "50697390850188",
+          "sku": "E10A2Y2108B",
+          "title": "S0 (EU 18 - 19) / Bubble Blush",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": false
+        },
+        {
+          "id": "50697391014028",
+          "sku": "E11A2Y2108B",
+          "title": "S1 (EU 20 -22) / Bubble Blush",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2799,
+      "mrp": 2999,
+      "discountPercent": 6.7,
+      "availableVariants": 1,
+      "totalVariants": 2,
+      "rating": 4.85,
+      "reviewCount": 34,
+      "displayedRating": 4.85,
+      "displayedReviewCount": 34,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9490263277708",
+      "title": "Aretto TYNY Purple Baby Shoes",
+      "handle": "tyny-purple-baby-shoes-berry-blossom",
+      "url": "https://wearetto.com/products/tyny-purple-baby-shoes-berry-blossom",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "Soft color, serious durability. Berry Blossom looks gentle enough for a Sunday outfit but holds up fine to a day spent entirely on the floor. 1. Designed for Growing Feet - Supergrooves sole stretches up to 3 sizes (18mm), so one pair keeps fitting well past the first few months. Wide toe box lets tiny toes spread the way they're meant to, supporting balance and avoiding that squished feeling. Zero-drop sole supports a flat, natural stance as babies start to stand and step. Built around real baby foot shapes, never a shrunk-down adult design. 2. All-Day Comfort - SquishyFoam insoles absorb shock while keeping that lightweight, barefoot-like feel. Infiknit upper stretches with movement, no pinching no matter how much crawling or kicking happens. Lightweight overall, so feet don't tire out after a full day of play. Breathable fabric helps feet stay dry through long naps and busy afternoons. 3. Practical for Everyday Life - Slip-on with elastic flex, getting them on a wiggly baby is a one-person job. One pair covers tummy time, cruising, and everything in between. Comfortable enough for long naps, sturdy enough for floor play right after. 4. Built to Last - Reinforced toe and heel resist scuffs from daily dragging and bumping. Outsole grips across different textures, indoors and out. Premium materials hold up to everyday wear without losing comfort. Sizes EU 20–37, covering the earliest growing months.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0856.jpg?v=1756962792",
+      "publishedAt": "2026-06-17T14:53:53+05:30",
+      "variants": [
+        {
+          "id": "50697393832076",
+          "sku": "E10A2Y1908B",
+          "title": "S0 (EU 18 - 19) / Berry Blossom",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "50697393995916",
+          "sku": "E11A2Y1908B",
+          "title": "S1 (EU 20 -22) / Berry Blossom",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 3399,
+          "mrp": 3399,
+          "available": false
+        }
+      ],
+      "sellingPrice": 3399,
+      "mrp": 3399,
+      "discountPercent": 0,
+      "availableVariants": 1,
+      "totalVariants": 2,
+      "rating": 4.8,
+      "reviewCount": 35,
+      "displayedRating": 4.8,
+      "displayedReviewCount": 35,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462958948492",
+      "title": "Aretto TYNY Red Baby Shoes",
+      "handle": "tyny-red-baby-shoes-captain-a",
+      "url": "https://wearetto.com/products/tyny-red-baby-shoes-captain-a",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "TYNY takes your baby from first wobbles to steady strides, expanding through three sizes so the fit stays right as they grow. Lightweight, flexible, and always supportive—TYNY gives little feet the freedom to move naturally and the confidence to keep going.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0851.jpg?v=1771913547",
+      "publishedAt": "2026-06-17T14:53:48+05:30",
+      "variants": [
+        {
+          "id": "50447493824652",
+          "sku": "E10A2Y1708B",
+          "title": "S0 (EU 18 - 19) / Captain A",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 3199,
+          "mrp": 3199,
+          "available": false
+        },
+        {
+          "id": "50447493988492",
+          "sku": "E11A2Y1708B",
+          "title": "S1 (EU 20 -22) / Captain A",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 3199,
+          "mrp": 2899,
+          "available": true
+        }
+      ],
+      "sellingPrice": 3199,
+      "mrp": 2899,
+      "discountPercent": 0,
+      "availableVariants": 1,
+      "totalVariants": 2,
+      "rating": 4.85,
+      "reviewCount": 34,
+      "displayedRating": 4.85,
+      "displayedReviewCount": 34,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    },
+    {
+      "id": "9462958719116",
+      "title": "Aretto TYNY Sky Blue Baby Shoes",
+      "handle": "tyny-sky-blue-baby-shoes-sunny-splash",
+      "url": "https://wearetto.com/products/tyny-sky-blue-baby-shoes-sunny-splash",
+      "productType": "Baby & Toddler Shoes",
+      "productTypeKey": "baby-toddler-shoes",
+      "gender": "Unisex",
+      "ageBandKeys": [
+        "0-3-years"
+      ],
+      "tags": [],
+      "description": "One pair of TYNY Sunny Splash can keep up with a baby's first wobbly steps and still fit comfortably months later. That's the kind of value parents notice. 1. Built for Feet That Won't Stop Growing - Supergrooves sole stretches up to 3 sizes (18mm), so you're not buying new shoes every few months. Wide toe box gives tiny toes room to spread, which helps with balance during those early standing and stepping days. Zero-drop sole lets babies' feet stay flat and grounded, just like being barefoot. Shaped around actual baby foot shapes, the fit feels right from day one. 2. Comfort That Lasts the Whole Day - SquishyFoam insoles soak up the impact from crawling across the floor to those first steps outside. Infiknit upper stretches through every kick and wiggle without digging in anywhere. Lightweight, so tiny feet don't feel weighed down even after a long day. Breathable knit means less sweat, fewer overheated, fussy feet. 3. Made for Real Mornings - Slip-on with stretchy elastic, no laces, no struggle getting them on a wiggly baby. One pair handles crawling, cruising, and short outings alike. Soft enough for naps, sturdy enough for active floor play. 4. Designed to Survive Early Years - Reinforced toe and heel hold up against the dragging and bumping that comes with learning to move. Outsole grips on tile, grass, pavement, whatever's underfoot. Materials picked for durability first, without losing that soft feel. EU sizes 20–37, so growth spurts are covered too.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0571/7475/3420/files/Aretto_S0RP_f0869.jpg?v=1771506944",
+      "publishedAt": "2026-06-17T14:53:48+05:30",
+      "variants": [
+        {
+          "id": "50447493202060",
+          "sku": "E10A2Y1808B",
+          "title": "S0 (EU 18 - 19) / Sunny Splash",
+          "size": "S0 (EU 18 - 19)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "50447493365900",
+          "sku": "E11A2Y1808B",
+          "title": "S1 (EU 20 -22) / Sunny Splash",
+          "size": "S1 (EU 20 -22)",
+          "sellingPrice": 2799,
+          "mrp": 2999,
+          "available": true
+        }
+      ],
+      "sellingPrice": 2799,
+      "mrp": 2999,
+      "discountPercent": 6.7,
+      "availableVariants": 2,
+      "totalVariants": 2,
+      "rating": 4.85,
+      "reviewCount": 34,
+      "displayedRating": 4.85,
+      "displayedReviewCount": 34,
+      "reviewPoolProductCount": 1,
+      "detailPageChecked": true,
+      "status": "existing"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "source": {
+    "id": "starkidz",
+    "brand": "Starkidz",
+    "url": "https://www.starkidz.co.in",
+    "mode": "Public website"
+  },
+  "generatedAt": "2026-09-15T20:49:41.656Z",
+  "isBaseline": false,
+  "metrics": {
+    "activeListings": 75,
+    "variantCount": 588,
+    "averageSellingPrice": 480,
+    "averageDiscount": 46.1,
+    "campaignCount": 4,
+    "totalReviews": 40,
+    "averageRating": 4.6,
+    "averageReviewsPerProduct": 2,
+    "ratedProducts": 25
+  },
+  "categories": {
+    "type": [
+      {
+        "key": "school-wear",
+        "label": "School Wear",
+        "productCount": 2,
+        "averageSellingPrice": 608,
+        "averageDiscount": 55,
+        "totalReviews": 0,
+        "averageRating": 0
+      },
+      {
+        "key": "party-wear",
+        "label": "Party Wear",
+        "productCount": 16,
+        "averageSellingPrice": 453,
+        "averageDiscount": 47,
+        "totalReviews": 10,
+        "averageRating": 4.1
+      },
+      {
+        "key": "sport-shoes",
+        "label": "Sport Shoes",
+        "productCount": 4,
+        "averageSellingPrice": 495,
+        "averageDiscount": 53.4,
+        "totalReviews": 1,
+        "averageRating": 5
+      },
+      {
+        "key": "clogs-slip-ons",
+        "label": "Clogs & Slip-ons",
+        "productCount": 11,
+        "averageSellingPrice": 415,
+        "averageDiscount": 32.3,
+        "totalReviews": 9,
+        "averageRating": 5
+      },
+      {
+        "key": "sandals",
+        "label": "Sandals",
+        "productCount": 36,
+        "averageSellingPrice": 454,
+        "averageDiscount": 47.8,
+        "totalReviews": 16,
+        "averageRating": 4.81
+      },
+      {
+        "key": "casual-shoes",
+        "label": "Casual Shoes",
+        "productCount": 6,
+        "averageSellingPrice": 781,
+        "averageDiscount": 51.5,
+        "totalReviews": 2,
+        "averageRating": 5
+      }
+    ],
+    "gender": [
+      {
+        "key": "unisex",
+        "label": "Unisex",
+        "productCount": 75,
+        "averageSellingPrice": 480,
+        "averageDiscount": 46.1,
+        "totalReviews": 38,
+        "averageRating": 4.68
+      },
+      {
+        "key": "girls",
+        "label": "Girls",
+        "productCount": 0,
+        "averageSellingPrice": 0,
+        "averageDiscount": 0,
+        "totalReviews": 0,
+        "averageRating": 0
+      },
+      {
+        "key": "boys",
+        "label": "Boys",
+        "productCount": 0,
+        "averageSellingPrice": 0,
+        "averageDiscount": 0,
+        "totalReviews": 0,
+        "averageRating": 0
+      },
+      {
+        "key": "unspecified",
+        "label": "Unspecified",
+        "productCount": 0,
+        "averageSellingPrice": 0,
+        "averageDiscount": 0,
+        "totalReviews": 0,
+        "averageRating": 0
+      }
+    ],
+    "age": [
+      {
+        "key": "0-3-years",
+        "label": "0–3 years",
+        "productCount": 62,
+        "averageSellingPrice": 444,
+        "averageDiscount": 45,
+        "totalReviews": 36,
+        "averageRating": 4.67
+      },
+      {
+        "key": "3-6-years",
+        "label": "3–6 years",
+        "productCount": 67,
+        "averageSellingPrice": 490,
+        "averageDiscount": 46.1,
+        "totalReviews": 37,
+        "averageRating": 4.68
+      },
+      {
+        "key": "6-9-years",
+        "label": "6–9 years",
+        "productCount": 51,
+        "averageSellingPrice": 533,
+        "averageDiscount": 47.5,
+        "totalReviews": 22,
+        "averageRating": 4.68
+      },
+      {
+        "key": "9-16-years",
+        "label": "9–16 years",
+        "productCount": 40,
+        "averageSellingPrice": 541,
+        "averageDiscount": 50,
+        "totalReviews": 19,
+        "averageRating": 4.63
+      }
+    ]
+  },
+  "campaigns": [
+    {
+      "key": "starkidz:first-order",
+      "title": "First-order offer",
+      "detail": "Discount promoted for a customer’s first order.",
+      "discountText": "10% off",
+      "type": "Coupon",
+      "observedAt": "2026-09-15T20:49:41.656Z"
+    },
+    {
+      "key": "starkidz:multi-buy",
+      "title": "Multi-buy offer",
+      "detail": "Buy 2 · 15% off; Buy 3 · 20% off",
+      "discountText": "15% / 20%",
+      "type": "Multi-buy",
+      "observedAt": "2026-09-15T20:49:41.656Z"
+    },
+    {
+      "key": "starkidz:end-of-season",
+      "title": "End-of-season sale",
+      "detail": "Sitewide end-of-season sale message.",
+      "discountText": "Up to 60%",
+      "type": "Seasonal sale",
+      "observedAt": "2026-09-15T20:49:41.656Z"
+    },
+    {
+      "key": "starkidz:free-shipping",
+      "title": "Free prepaid shipping",
+      "detail": "Free shipping is promoted for prepaid orders.",
+      "discountText": "Service benefit",
+      "type": "Shipping benefit",
+      "observedAt": "2026-09-15T20:49:41.656Z"
+    }
+  ],
+  "events": [],
+  "reviewAccounting": {
+    "status": "Healthy",
+    "uniqueReviews": 40,
+    "activeCatalogueReviews": 38,
+    "historicalReviews": 2,
+    "displayedReviewMentions": 288,
+    "duplicateReviewMentions": 248,
+    "sharedPoolCount": 2,
+    "ageCoverageMentions": 114,
+    "ageOverlapMentions": 76,
+    "averageRating": 4.6
+  },
+  "health": {
+    "status": "Healthy",
+    "catalogueComplete": true,
+    "pricedProducts": 75,
+    "detailPagesChecked": 75,
+    "detailPagesFailed": 0
+  },
+  "refresh": {
+    "allowed": false,
+    "scansToday": 1,
+    "limitPerDay": 1,
+    "nextAvailableAt": "2026-09-16T18:30:00.000Z"
+  }
+}

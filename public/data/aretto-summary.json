@@ -1,0 +1,153 @@
+{
+  "source": {
+    "id": "aretto",
+    "brand": "Aretto",
+    "url": "https://wearetto.com",
+    "mode": "Public website"
+  },
+  "generatedAt": "2026-09-16T12:21:29.040Z",
+  "isBaseline": false,
+  "metrics": {
+    "activeListings": 35,
+    "variantCount": 426,
+    "averageSellingPrice": 2956,
+    "averageDiscount": 5.2,
+    "campaignCount": 0,
+    "totalReviews": 4096,
+    "averageRating": 4.72,
+    "averageReviewsPerProduct": 216,
+    "ratedProducts": 19
+  },
+  "categories": {
+    "type": [
+      {
+        "key": "school-shoes",
+        "label": "School Shoes",
+        "productCount": 4,
+        "averageSellingPrice": 2710,
+        "averageDiscount": 7.2,
+        "totalReviews": 857,
+        "averageRating": 4.79
+      },
+      {
+        "key": "sneakers",
+        "label": "Sneakers",
+        "productCount": 11,
+        "averageSellingPrice": 3027,
+        "averageDiscount": 6.2,
+        "totalReviews": 1218,
+        "averageRating": 4.73
+      },
+      {
+        "key": "baby-toddler-shoes",
+        "label": "Baby & Toddler Shoes",
+        "productCount": 14,
+        "averageSellingPrice": 3013,
+        "averageDiscount": 3.8,
+        "totalReviews": 216,
+        "averageRating": 4.81
+      },
+      {
+        "key": "shoes",
+        "label": "Shoes",
+        "productCount": 6,
+        "averageSellingPrice": 2857,
+        "averageDiscount": 5.2,
+        "totalReviews": 1805,
+        "averageRating": 4.68
+      }
+    ],
+    "gender": [
+      {
+        "key": "unisex",
+        "label": "Unisex",
+        "productCount": 33,
+        "averageSellingPrice": 2956,
+        "averageDiscount": 5.1,
+        "totalReviews": 4036,
+        "averageRating": 4.72
+      },
+      {
+        "key": "girls",
+        "label": "Girls",
+        "productCount": 2,
+        "averageSellingPrice": 2962,
+        "averageDiscount": 6.3,
+        "totalReviews": 60,
+        "averageRating": 4.75
+      }
+    ],
+    "age": [
+      {
+        "key": "0-3-years",
+        "label": "0–3 years",
+        "productCount": 35,
+        "averageSellingPrice": 2956,
+        "averageDiscount": 5.2,
+        "totalReviews": 4096,
+        "averageRating": 4.72
+      },
+      {
+        "key": "3-6-years",
+        "label": "3–6 years",
+        "productCount": 21,
+        "averageSellingPrice": 2918,
+        "averageDiscount": 6.1,
+        "totalReviews": 3880,
+        "averageRating": 4.72
+      },
+      {
+        "key": "6-9-years",
+        "label": "6–9 years",
+        "productCount": 21,
+        "averageSellingPrice": 2918,
+        "averageDiscount": 6.1,
+        "totalReviews": 3880,
+        "averageRating": 4.72
+      },
+      {
+        "key": "9-16-years",
+        "label": "9–16 years",
+        "productCount": 21,
+        "averageSellingPrice": 2918,
+        "averageDiscount": 6.1,
+        "totalReviews": 3880,
+        "averageRating": 4.72
+      }
+    ]
+  },
+  "campaigns": [],
+  "events": [],
+  "reviewAccounting": {
+    "status": "Deduplicated shared review pools",
+    "uniqueReviews": 4096,
+    "activeCatalogueReviews": 4096,
+    "historicalReviews": 0,
+    "displayedReviewMentions": 8774,
+    "duplicateReviewMentions": 4678,
+    "sharedPoolCount": 4,
+    "ageCoverageMentions": 15736,
+    "ageOverlapMentions": 11640,
+    "averageRating": 4.72
+  },
+  "campaignHealth": {
+    "status": "Healthy",
+    "inspectedSurfaces": [
+      "Homepage",
+      "Product pages"
+    ]
+  },
+  "health": {
+    "status": "Healthy",
+    "catalogueComplete": true,
+    "pricedProducts": 35,
+    "detailPagesChecked": 35,
+    "detailPagesFailed": 0
+  },
+  "refresh": {
+    "allowed": false,
+    "scansToday": 1,
+    "limitPerDay": 1,
+    "nextAvailableAt": "2026-09-16T18:30:00.000Z"
+  }
+}
