@@ -5,7 +5,7 @@
     "url": "https://wearetto.com",
     "mode": "Public website"
   },
-  "generatedAt": "2026-09-16T12:21:29.040Z",
+  "generatedAt": "2026-10-02T08:34:17.205Z",
   "products": [
     {
       "id": "9491414319244",
@@ -71,7 +71,7 @@
           "size": "S1 (EU 20 - 22)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50707133628556",
@@ -161,7 +161,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 3399,
           "mrp": 3399,
-          "available": false
+          "available": true
         },
         {
           "id": "50707133726860",
@@ -170,7 +170,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 3199,
           "mrp": 3199,
-          "available": false
+          "available": true
         },
         {
           "id": "50707133857932",
@@ -197,7 +197,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50707133989004",
@@ -314,7 +314,7 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2699,
           "mrp": 2699,
-          "available": false
+          "available": true
         },
         {
           "id": "50707134185612",
@@ -368,7 +368,7 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 3499,
           "mrp": 3499,
-          "available": false
+          "available": true
         },
         {
           "id": "50707134120076",
@@ -404,7 +404,7 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50707134611596",
@@ -413,7 +413,7 @@
           "size": "S4 (EU 29 - 31)",
           "sellingPrice": 3399,
           "mrp": 3399,
-          "available": false
+          "available": true
         },
         {
           "id": "50707134447756",
@@ -638,7 +638,7 @@
           "size": "S5 (EU 32 - 34)",
           "sellingPrice": 3399,
           "mrp": 3399,
-          "available": true
+          "available": false
         },
         {
           "id": "50707134873740",
@@ -656,7 +656,7 @@
           "size": "S5 (EU 32 - 34)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50707135332492",
@@ -782,13 +782,13 @@
           "size": "S6 (EU 35 - 37)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         }
       ],
       "sellingPrice": 2699,
       "mrp": 2699,
       "discountPercent": 0,
-      "availableVariants": 69,
+      "availableVariants": 78,
       "totalVariants": 84,
       "rating": 0,
       "reviewCount": 0,
@@ -984,7 +984,7 @@
           "sku": "E11A1Y1108A",
           "title": "S1 (EU 20 - 22) / All Black",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1020,7 +1020,7 @@
           "sku": "E11A1Y0808A",
           "title": "S1 (EU 20 - 22) / Candy Floss",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1031,7 +1031,7 @@
           "size": "S1 (EU 20 - 22)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "43243672273036",
@@ -1065,7 +1065,7 @@
           "sku": "E11A1Z1508A",
           "title": "S1 (EU 20 - 22) / Electro Buzz",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
         },
@@ -1083,7 +1083,7 @@
           "sku": "E12A1Y1108A",
           "title": "S2 (EU 23 - 25) / All Black",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1094,7 +1094,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2975,
           "mrp": 3199,
-          "available": false
+          "available": true
         },
         {
           "id": "43243673419916",
@@ -1119,7 +1119,7 @@
           "sku": "E12A1Y0808A",
           "title": "S2 (EU 23 - 25) / Candy Floss",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1130,7 +1130,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "43243673059468",
@@ -1139,7 +1139,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2625,
           "mrp": 3399,
-          "available": false
+          "available": true
         },
         {
           "id": "43243673354380",
@@ -1164,7 +1164,7 @@
           "sku": "E12A1Z1508A",
           "title": "S2 (EU 23 - 25) / Electro Buzz",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
         },
@@ -1182,7 +1182,7 @@
           "sku": "E13A1Y1108A",
           "title": "S3 (EU 26 - 28) / All Black",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1218,7 +1218,7 @@
           "sku": "E13A1Y0808A",
           "title": "S3 (EU 26 - 28) / Candy Floss",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1256,16 +1256,16 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2625,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "43243674271884",
           "sku": "E13A1Z1508A",
           "title": "S3 (EU 26 - 28) / Electro Buzz",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
-          "available": false
+          "available": true
         },
         {
           "id": "43243674435724",
@@ -1274,14 +1274,14 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2625,
           "mrp": 2699,
-          "available": false
+          "available": true
         },
         {
           "id": "43243674828940",
           "sku": "E14A1Y1108A",
           "title": "S4 (EU 29 - 31) / All Black",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1317,7 +1317,7 @@
           "sku": "E14A1Y0808A",
           "title": "S4 (EU 29 - 31) / Candy Floss",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1337,7 +1337,7 @@
           "size": "S4 (EU 29 - 31)",
           "sellingPrice": 2625,
           "mrp": 3399,
-          "available": false
+          "available": true
         },
         {
           "id": "43243674927244",
@@ -1362,7 +1362,7 @@
           "sku": "E14A1Z1508A",
           "title": "S4 (EU 29 - 31) / Electro Buzz",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
         },
@@ -1380,7 +1380,7 @@
           "sku": "E15A1Y1108A",
           "title": "S5 (EU 32 - 34) / All Black",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1416,7 +1416,7 @@
           "sku": "E15A1Y0808A",
           "title": "S5 (EU 32 - 34) / Candy Floss",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1454,14 +1454,14 @@
           "size": "S5 (EU 32 - 34)",
           "sellingPrice": 2625,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "43243675746444",
           "sku": "E15A1Z1508A",
           "title": "S5 (EU 32 - 34) / Electro Buzz",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": false
         },
@@ -1479,7 +1479,7 @@
           "sku": "E16A1Y1108A",
           "title": "S6 (EU 35 - 37) / All Black",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1515,7 +1515,7 @@
           "sku": "E16A1Y0808A",
           "title": "S6 (EU 35 - 37) / Candy Floss",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1553,14 +1553,14 @@
           "size": "S6 (EU 35 - 37)",
           "sellingPrice": 2625,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "43243676565644",
           "sku": "E16A1Z1508A",
           "title": "S6 (EU 35 - 37) / Electro Buzz",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
         },
@@ -1574,15 +1574,15 @@
           "available": true
         }
       ],
-      "sellingPrice": 2608,
-      "mrp": 2999,
-      "discountPercent": 13,
-      "availableVariants": 51,
+      "sellingPrice": 2625,
+      "mrp": 2699,
+      "discountPercent": 2.7,
+      "availableVariants": 61,
       "totalVariants": 66,
       "rating": 4.69,
-      "reviewCount": 564,
+      "reviewCount": 565,
       "displayedRating": 4.69,
-      "displayedReviewCount": 564,
+      "displayedReviewCount": 565,
       "reviewPoolProductCount": 4,
       "detailPageChecked": true,
       "status": "existing"
@@ -1704,7 +1704,7 @@
           "sku": "E11A1Y1108A",
           "title": "S1 (EU 20 - 22) / All Black",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1713,7 +1713,7 @@
           "sku": "E12A1Y1108A",
           "title": "S2 (EU 23 - 25) / All Black",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1722,7 +1722,7 @@
           "sku": "E13A1Y1108A",
           "title": "S3 (EU 26 - 28) / All Black",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1731,7 +1731,7 @@
           "sku": "E14A1Y1108A",
           "title": "S4 (EU 29 - 31) / All Black",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1740,7 +1740,7 @@
           "sku": "E15A1Y1108A",
           "title": "S5 (EU 32 - 34) / All Black",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1749,14 +1749,14 @@
           "sku": "E16A1Y1108A",
           "title": "S6 (EU 35 - 37) / All Black",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         }
       ],
-      "sellingPrice": 2608,
+      "sellingPrice": 2749,
       "mrp": 2999,
-      "discountPercent": 13,
+      "discountPercent": 8.3,
       "availableVariants": 6,
       "totalVariants": 6,
       "rating": 0,
@@ -1889,7 +1889,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2625,
           "mrp": 3399,
-          "available": false
+          "available": true
         },
         {
           "id": "50447538978956",
@@ -1907,7 +1907,7 @@
           "size": "S4 (EU 29 - 31)",
           "sellingPrice": 2625,
           "mrp": 3399,
-          "available": false
+          "available": true
         },
         {
           "id": "50447539896460",
@@ -1931,7 +1931,7 @@
       "sellingPrice": 2625,
       "mrp": 3399,
       "discountPercent": 22.8,
-      "availableVariants": 3,
+      "availableVariants": 5,
       "totalVariants": 6,
       "rating": 4.73,
       "reviewCount": 519,
@@ -1965,7 +1965,7 @@
           "sku": "E11A1Y1108A",
           "title": "S1 (EU 20 - 22) / All Black",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1974,7 +1974,7 @@
           "sku": "E12A1Y1108A",
           "title": "S2 (EU 23 - 25) / All Black",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1983,7 +1983,7 @@
           "sku": "E13A1Y1108A",
           "title": "S3 (EU 26 - 28) / All Black",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -1992,7 +1992,7 @@
           "sku": "E14A1Y1108A",
           "title": "S4 (EU 29 - 31) / All Black",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -2001,7 +2001,7 @@
           "sku": "E15A1Y1108A",
           "title": "S5 (EU 32 - 34) / All Black",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -2010,14 +2010,14 @@
           "sku": "E16A1Y1108A",
           "title": "S6 (EU 35 - 37) / All Black",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         }
       ],
-      "sellingPrice": 2608,
+      "sellingPrice": 2749,
       "mrp": 2999,
-      "discountPercent": 13,
+      "discountPercent": 8.3,
       "availableVariants": 6,
       "totalVariants": 6,
       "rating": 4.89,
@@ -2054,17 +2054,8 @@
           "sku": "E11A1Y1108A",
           "title": "S1 (EU 20 - 22) / All Black",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
-          "available": true
-        },
-        {
-          "id": "41015899783308",
-          "sku": "E11A1Y0708A",
-          "title": "S1 (EU 20 - 22) / Classic Black",
-          "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2625,
-          "mrp": 2699,
           "available": true
         },
         {
@@ -2072,8 +2063,17 @@
           "sku": "E11A1Y0808A",
           "title": "S1 (EU 20 - 22) / Candy Floss",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015899750540",
+          "sku": "E11A1Z0308A",
+          "title": "S1 (EU 20 - 22) / Colour Pop",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
           "available": true
         },
         {
@@ -2086,18 +2086,36 @@
           "available": true
         },
         {
-          "id": "42369901330572",
-          "sku": "E11A1Y1308A",
-          "title": "S1 (EU 20 - 22) / Cross Court",
+          "id": "41015899783308",
+          "sku": "E11A1Y0708A",
+          "title": "S1 (EU 20 - 22) / Classic Black",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2999,
-          "mrp": 2999,
-          "available": false
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
         },
         {
           "id": "41015899914380",
           "sku": "E11A1Z0108A",
           "title": "S1 (EU 20 - 22) / Summer Swim",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015899947148",
+          "sku": "E11A1Z0208A",
+          "title": "S1 (EU 20 - 22) / Space Surfer Red",
+          "size": "S1 (EU 20 - 22)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42369901330572",
+          "sku": "E11A1Y1308A",
+          "title": "S1 (EU 20 - 22) / Cross Court",
           "size": "S1 (EU 20 - 22)",
           "sellingPrice": 2999,
           "mrp": 2999,
@@ -2113,30 +2131,12 @@
           "available": true
         },
         {
-          "id": "41015899750540",
-          "sku": "E11A1Z0308A",
-          "title": "S1 (EU 20 - 22) / Colour Pop",
-          "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2975,
-          "mrp": 3199,
-          "available": true
-        },
-        {
           "id": "42987550277772",
           "sku": "E11A1Z1508A",
           "title": "S1 (EU 20 - 22) / Electro Buzz",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
-          "available": true
-        },
-        {
-          "id": "41015899947148",
-          "sku": "E11A1Z0208A",
-          "title": "S1 (EU 20 - 22) / Space Surfer Red",
-          "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2625,
-          "mrp": 2999,
           "available": true
         },
         {
@@ -2153,17 +2153,8 @@
           "sku": "E12A1Y1108A",
           "title": "S2 (EU 23 - 25) / All Black",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
-          "available": true
-        },
-        {
-          "id": "41015900110988",
-          "sku": "E12A1Y0708A",
-          "title": "S2 (EU 23 - 25) / Classic Black",
-          "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2625,
-          "mrp": 2699,
           "available": true
         },
         {
@@ -2171,8 +2162,17 @@
           "sku": "E12A1Y0808A",
           "title": "S2 (EU 23 - 25) / Candy Floss",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900078220",
+          "sku": "E12A1Z0308A",
+          "title": "S2 (EU 23 - 25) / Colour Pop",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
           "available": true
         },
         {
@@ -2185,18 +2185,36 @@
           "available": true
         },
         {
-          "id": "42369901363340",
-          "sku": "E12A1Y1308A",
-          "title": "S2 (EU 23 - 25) / Cross Court",
+          "id": "41015900110988",
+          "sku": "E12A1Y0708A",
+          "title": "S2 (EU 23 - 25) / Classic Black",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2999,
-          "mrp": 2999,
-          "available": false
+          "sellingPrice": 2625,
+          "mrp": 2699,
+          "available": true
         },
         {
           "id": "41015900209292",
           "sku": "E12A1Z0108A",
           "title": "S2 (EU 23 - 25) / Summer Swim",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900242060",
+          "sku": "E12A1Z0208A",
+          "title": "S2 (EU 23 - 25) / Space Surfer Red",
+          "size": "S2 (EU 23 - 25)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42369901363340",
+          "sku": "E12A1Y1308A",
+          "title": "S2 (EU 23 - 25) / Cross Court",
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2999,
           "mrp": 2999,
@@ -2209,33 +2227,15 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2625,
           "mrp": 3399,
-          "available": false
-        },
-        {
-          "id": "41015900078220",
-          "sku": "E12A1Z0308A",
-          "title": "S2 (EU 23 - 25) / Colour Pop",
-          "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2975,
-          "mrp": 3199,
-          "available": false
+          "available": true
         },
         {
           "id": "42987550310540",
           "sku": "E12A1Z1508A",
           "title": "S2 (EU 23 - 25) / Electro Buzz",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
-          "available": true
-        },
-        {
-          "id": "41015900242060",
-          "sku": "E12A1Z0208A",
-          "title": "S2 (EU 23 - 25) / Space Surfer Red",
-          "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2625,
-          "mrp": 2999,
           "available": true
         },
         {
@@ -2252,17 +2252,8 @@
           "sku": "E13A1Y1108A",
           "title": "S3 (EU 26 - 28) / All Black",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
-          "available": true
-        },
-        {
-          "id": "41015900340364",
-          "sku": "E13A1Y0708A",
-          "title": "S3 (EU 26 - 28) / Classic Black",
-          "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2625,
-          "mrp": 2699,
           "available": true
         },
         {
@@ -2270,8 +2261,17 @@
           "sku": "E13A1Y0808A",
           "title": "S3 (EU 26 - 28) / Candy Floss",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015806525580",
+          "sku": "E13A1Z0308A",
+          "title": "S3 (EU 26 - 28) / Colour Pop",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
           "available": true
         },
         {
@@ -2284,18 +2284,36 @@
           "available": true
         },
         {
-          "id": "42369901396108",
-          "sku": "E13A1Y1308A",
-          "title": "S3 (EU 26 - 28) / Cross Court",
+          "id": "41015900340364",
+          "sku": "E13A1Y0708A",
+          "title": "S3 (EU 26 - 28) / Classic Black",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2999,
-          "mrp": 2999,
+          "sellingPrice": 2625,
+          "mrp": 2699,
           "available": true
         },
         {
           "id": "41015900438668",
           "sku": "E13A1Z0108A",
           "title": "S3 (EU 26 - 28) / Summer Swim",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900471436",
+          "sku": "E13A1Z0208A",
+          "title": "S3 (EU 26 - 28) / Space Surfer Red",
+          "size": "S3 (EU 26 - 28)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42369901396108",
+          "sku": "E13A1Y1308A",
+          "title": "S3 (EU 26 - 28) / Cross Court",
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2999,
           "mrp": 2999,
@@ -2311,31 +2329,13 @@
           "available": true
         },
         {
-          "id": "41015806525580",
-          "sku": "E13A1Z0308A",
-          "title": "S3 (EU 26 - 28) / Colour Pop",
-          "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2975,
-          "mrp": 3199,
-          "available": true
-        },
-        {
           "id": "42987550343308",
           "sku": "E13A1Z1508A",
           "title": "S3 (EU 26 - 28) / Electro Buzz",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
-          "available": false
-        },
-        {
-          "id": "41015900471436",
-          "sku": "E13A1Z0208A",
-          "title": "S3 (EU 26 - 28) / Space Surfer Red",
-          "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2625,
-          "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "41015900373132",
@@ -2344,24 +2344,15 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2625,
           "mrp": 2699,
-          "available": false
+          "available": true
         },
         {
           "id": "41528051564684",
           "sku": "E14A1Y1108A",
           "title": "S4 (EU 29 - 31) / All Black",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
-          "available": true
-        },
-        {
-          "id": "41015900569740",
-          "sku": "E14A1Y0708A",
-          "title": "S4 (EU 29 - 31) / Classic Black",
-          "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2625,
-          "mrp": 2699,
           "available": true
         },
         {
@@ -2369,8 +2360,17 @@
           "sku": "E14A1Y0808A",
           "title": "S4 (EU 29 - 31) / Candy Floss",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015806591116",
+          "sku": "E14A1Z0308A",
+          "title": "S4 (EU 29 - 31) / Colour Pop",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
           "available": true
         },
         {
@@ -2383,12 +2383,12 @@
           "available": true
         },
         {
-          "id": "42369901428876",
-          "sku": "E14A1Y1308A",
-          "title": "S4 (EU 29 - 31) / Cross Court",
+          "id": "41015900569740",
+          "sku": "E14A1Y0708A",
+          "title": "S4 (EU 29 - 31) / Classic Black",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2999,
-          "mrp": 2999,
+          "sellingPrice": 2625,
+          "mrp": 2699,
           "available": true
         },
         {
@@ -2401,33 +2401,6 @@
           "available": true
         },
         {
-          "id": "42022312673420",
-          "sku": "E14A1Z0408A",
-          "title": "S4 (EU 29 - 31) / Happy Hopper",
-          "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2625,
-          "mrp": 3399,
-          "available": false
-        },
-        {
-          "id": "41015806591116",
-          "sku": "E14A1Z0308A",
-          "title": "S4 (EU 29 - 31) / Colour Pop",
-          "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2975,
-          "mrp": 3199,
-          "available": true
-        },
-        {
-          "id": "42987550376076",
-          "sku": "E14A1Z1508A",
-          "title": "S4 (EU 29 - 31) / Electro Buzz",
-          "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 3300,
-          "mrp": 3499,
-          "available": true
-        },
-        {
           "id": "41015900700812",
           "sku": "E14A1Z0208A",
           "title": "S4 (EU 29 - 31) / Space Surfer Red",
@@ -2435,6 +2408,33 @@
           "sellingPrice": 2625,
           "mrp": 2999,
           "available": false
+        },
+        {
+          "id": "42369901428876",
+          "sku": "E14A1Y1308A",
+          "title": "S4 (EU 29 - 31) / Cross Court",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42022312673420",
+          "sku": "E14A1Z0408A",
+          "title": "S4 (EU 29 - 31) / Happy Hopper",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 2625,
+          "mrp": 3399,
+          "available": true
+        },
+        {
+          "id": "42987550376076",
+          "sku": "E14A1Z1508A",
+          "title": "S4 (EU 29 - 31) / Electro Buzz",
+          "size": "S4 (EU 29 - 31)",
+          "sellingPrice": 3499,
+          "mrp": 3499,
+          "available": true
         },
         {
           "id": "41015900602508",
@@ -2450,17 +2450,8 @@
           "sku": "E15A1Y1108A",
           "title": "S5 (EU 32 - 34) / All Black",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
-          "available": true
-        },
-        {
-          "id": "41015900864652",
-          "sku": "E15A1Y0708A",
-          "title": "S5 (EU 32 - 34) / Classic Black",
-          "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2625,
-          "mrp": 2699,
           "available": true
         },
         {
@@ -2468,8 +2459,17 @@
           "sku": "E15A1Y0808A",
           "title": "S5 (EU 32 - 34) / Candy Floss",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900831884",
+          "sku": "E15A1Z0308A",
+          "title": "S5 (EU 32 - 34) / Colour Pop",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
           "available": true
         },
         {
@@ -2482,18 +2482,36 @@
           "available": true
         },
         {
-          "id": "42369901461644",
-          "sku": "E15A1Y1308A",
-          "title": "S5 (EU 32 - 34) / Cross Court",
+          "id": "41015900864652",
+          "sku": "E15A1Y0708A",
+          "title": "S5 (EU 32 - 34) / Classic Black",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2999,
-          "mrp": 2999,
+          "sellingPrice": 2625,
+          "mrp": 2699,
           "available": true
         },
         {
           "id": "41015900962956",
           "sku": "E15A1Z0108A",
           "title": "S5 (EU 32 - 34) / Summer Swim",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41015900995724",
+          "sku": "E15A1Z0208A",
+          "title": "S5 (EU 32 - 34) / Space Surfer Red",
+          "size": "S5 (EU 32 - 34)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42369901461644",
+          "sku": "E15A1Y1308A",
+          "title": "S5 (EU 32 - 34) / Cross Court",
           "size": "S5 (EU 32 - 34)",
           "sellingPrice": 2999,
           "mrp": 2999,
@@ -2509,30 +2527,12 @@
           "available": true
         },
         {
-          "id": "41015900831884",
-          "sku": "E15A1Z0308A",
-          "title": "S5 (EU 32 - 34) / Colour Pop",
-          "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2975,
-          "mrp": 3199,
-          "available": true
-        },
-        {
           "id": "42987550408844",
           "sku": "E15A1Z1508A",
           "title": "S5 (EU 32 - 34) / Electro Buzz",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
-          "available": false
-        },
-        {
-          "id": "41015900995724",
-          "sku": "E15A1Z0208A",
-          "title": "S5 (EU 32 - 34) / Space Surfer Red",
-          "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2625,
-          "mrp": 2999,
           "available": false
         },
         {
@@ -2549,17 +2549,8 @@
           "sku": "E16A1Y1108A",
           "title": "S6 (EU 35 - 37) / All Black",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2608,
+          "sellingPrice": 2749,
           "mrp": 2999,
-          "available": true
-        },
-        {
-          "id": "41563193966732",
-          "sku": "E16A1Y0708A",
-          "title": "S6 (EU 35 - 37) / Classic Black",
-          "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2625,
-          "mrp": 2699,
           "available": true
         },
         {
@@ -2567,8 +2558,17 @@
           "sku": "E16A1Y0808A",
           "title": "S6 (EU 35 - 37) / Candy Floss",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41563194065036",
+          "sku": "E16A1Z0308A",
+          "title": "S6 (EU 35 - 37) / Colour Pop",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2975,
+          "mrp": 3199,
           "available": true
         },
         {
@@ -2581,18 +2581,36 @@
           "available": true
         },
         {
-          "id": "42369901494412",
-          "sku": "E16A1Y1308A",
-          "title": "S6 (EU 35 - 37) / Cross Court",
+          "id": "41563193966732",
+          "sku": "E16A1Y0708A",
+          "title": "S6 (EU 35 - 37) / Classic Black",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2999,
-          "mrp": 2999,
+          "sellingPrice": 2625,
+          "mrp": 2699,
           "available": true
         },
         {
           "id": "41563194097804",
           "sku": "E16A1Z0108A",
           "title": "S6 (EU 35 - 37) / Summer Swim",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2999,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "41563194130572",
+          "sku": "E16A1Z0208A",
+          "title": "S6 (EU 35 - 37) / Space Surfer Red",
+          "size": "S6 (EU 35 - 37)",
+          "sellingPrice": 2625,
+          "mrp": 2999,
+          "available": true
+        },
+        {
+          "id": "42369901494412",
+          "sku": "E16A1Y1308A",
+          "title": "S6 (EU 35 - 37) / Cross Court",
           "size": "S6 (EU 35 - 37)",
           "sellingPrice": 2999,
           "mrp": 2999,
@@ -2608,31 +2626,13 @@
           "available": false
         },
         {
-          "id": "41563194065036",
-          "sku": "E16A1Z0308A",
-          "title": "S6 (EU 35 - 37) / Colour Pop",
-          "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2975,
-          "mrp": 3199,
-          "available": true
-        },
-        {
           "id": "42987550441612",
           "sku": "E16A1Z1508A",
           "title": "S6 (EU 35 - 37) / Electro Buzz",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
-        },
-        {
-          "id": "41563194130572",
-          "sku": "E16A1Z0208A",
-          "title": "S6 (EU 35 - 37) / Space Surfer Red",
-          "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2625,
-          "mrp": 2999,
-          "available": false
         },
         {
           "id": "41563193999500",
@@ -2644,15 +2644,15 @@
           "available": true
         }
       ],
-      "sellingPrice": 2608,
-      "mrp": 2999,
-      "discountPercent": 13,
-      "availableVariants": 51,
+      "sellingPrice": 2625,
+      "mrp": 2699,
+      "discountPercent": 2.7,
+      "availableVariants": 61,
       "totalVariants": 66,
-      "rating": 4.63,
-      "reviewCount": 591,
-      "displayedRating": 4.63,
-      "displayedReviewCount": 591,
+      "rating": 4.62,
+      "reviewCount": 599,
+      "displayedRating": 4.62,
+      "displayedReviewCount": 599,
       "reviewPoolProductCount": 1,
       "detailPageChecked": true,
       "status": "existing"
@@ -2681,7 +2681,7 @@
           "sku": "E11A1Z1508A",
           "title": "S1 (EU 20 - 22) / Electro Buzz",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
         },
@@ -2690,7 +2690,7 @@
           "sku": "E12A1Z1508A",
           "title": "S2 (EU 23 - 25) / Electro Buzz",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
         },
@@ -2699,16 +2699,16 @@
           "sku": "E13A1Z1508A",
           "title": "S3 (EU 26 - 28) / Electro Buzz",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
-          "available": false
+          "available": true
         },
         {
           "id": "50447552348300",
           "sku": "E14A1Z1508A",
           "title": "S4 (EU 29 - 31) / Electro Buzz",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
         },
@@ -2717,7 +2717,7 @@
           "sku": "E15A1Z1508A",
           "title": "S5 (EU 32 - 34) / Electro Buzz",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": false
         },
@@ -2726,15 +2726,15 @@
           "sku": "E16A1Z1508A",
           "title": "S6 (EU 35 - 37) / Electro Buzz",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 3300,
+          "sellingPrice": 3499,
           "mrp": 3499,
           "available": true
         }
       ],
-      "sellingPrice": 3300,
+      "sellingPrice": 3499,
       "mrp": 3499,
-      "discountPercent": 5.7,
-      "availableVariants": 4,
+      "discountPercent": 0,
+      "availableVariants": 5,
       "totalVariants": 6,
       "rating": 0,
       "reviewCount": 0,
@@ -2788,7 +2788,7 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2625,
           "mrp": 2699,
-          "available": false
+          "available": true
         },
         {
           "id": "50447542648972",
@@ -2821,7 +2821,7 @@
       "sellingPrice": 2625,
       "mrp": 2699,
       "discountPercent": 2.7,
-      "availableVariants": 3,
+      "availableVariants": 4,
       "totalVariants": 6,
       "rating": 0,
       "reviewCount": 0,
@@ -2855,7 +2855,7 @@
           "sku": "E11A1Y0808A",
           "title": "S1 (EU 20 - 22) / Candy Floss",
           "size": "S1 (EU 20 - 22)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -2864,7 +2864,7 @@
           "sku": "E12A1Y0808A",
           "title": "S2 (EU 23 - 25) / Candy Floss",
           "size": "S2 (EU 23 - 25)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -2873,7 +2873,7 @@
           "sku": "E13A1Y0808A",
           "title": "S3 (EU 26 - 28) / Candy Floss",
           "size": "S3 (EU 26 - 28)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -2882,7 +2882,7 @@
           "sku": "E14A1Y0808A",
           "title": "S4 (EU 29 - 31) / Candy Floss",
           "size": "S4 (EU 29 - 31)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -2891,7 +2891,7 @@
           "sku": "E15A1Y0808A",
           "title": "S5 (EU 32 - 34) / Candy Floss",
           "size": "S5 (EU 32 - 34)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         },
@@ -2900,14 +2900,14 @@
           "sku": "E16A1Y0808A",
           "title": "S6 (EU 35 - 37) / Candy Floss",
           "size": "S6 (EU 35 - 37)",
-          "sellingPrice": 2625,
+          "sellingPrice": 2749,
           "mrp": 2999,
           "available": true
         }
       ],
-      "sellingPrice": 2625,
+      "sellingPrice": 2749,
       "mrp": 2999,
-      "discountPercent": 12.5,
+      "discountPercent": 8.3,
       "availableVariants": 6,
       "totalVariants": 6,
       "rating": 0,
@@ -3040,7 +3040,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2975,
           "mrp": 3199,
-          "available": false
+          "available": true
         },
         {
           "id": "50447522660492",
@@ -3082,7 +3082,7 @@
       "sellingPrice": 2975,
       "mrp": 3199,
       "discountPercent": 7,
-      "availableVariants": 5,
+      "availableVariants": 6,
       "totalVariants": 6,
       "rating": 4.73,
       "reviewCount": 520,
@@ -3136,7 +3136,7 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2625,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50447545893004",
@@ -3154,7 +3154,7 @@
           "size": "S5 (EU 32 - 34)",
           "sellingPrice": 2625,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50447546810508",
@@ -3163,13 +3163,13 @@
           "size": "S6 (EU 35 - 37)",
           "sellingPrice": 2625,
           "mrp": 2999,
-          "available": false
+          "available": true
         }
       ],
       "sellingPrice": 2625,
       "mrp": 2999,
       "discountPercent": 12.5,
-      "availableVariants": 2,
+      "availableVariants": 5,
       "totalVariants": 6,
       "rating": 0,
       "reviewCount": 0,
@@ -3292,7 +3292,7 @@
           "size": "S1 (EU 20 - 22)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50447531835532",
@@ -3301,7 +3301,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50447532294284",
@@ -3343,7 +3343,7 @@
       "sellingPrice": 2999,
       "mrp": 2999,
       "discountPercent": 0,
-      "availableVariants": 4,
+      "availableVariants": 6,
       "totalVariants": 6,
       "rating": 0,
       "reviewCount": 0,
@@ -3498,7 +3498,7 @@
           "size": "S5 (EU 32 - 34)",
           "sellingPrice": 3399,
           "mrp": 3399,
-          "available": true
+          "available": false
         },
         {
           "id": "47653623758988",
@@ -3540,12 +3540,12 @@
       "sellingPrice": 3299,
       "mrp": 3299,
       "discountPercent": 0,
-      "availableVariants": 18,
+      "availableVariants": 17,
       "totalVariants": 18,
-      "rating": 4.62,
-      "reviewCount": 127,
-      "displayedRating": 4.62,
-      "displayedReviewCount": 127,
+      "rating": 4.51,
+      "reviewCount": 106,
+      "displayedRating": 4.51,
+      "displayedReviewCount": 106,
       "reviewPoolProductCount": 1,
       "detailPageChecked": true,
       "status": "existing"
@@ -3614,7 +3614,7 @@
           "size": "S5 (EU 32 - 34)",
           "sellingPrice": 3399,
           "mrp": 3399,
-          "available": true
+          "available": false
         },
         {
           "id": "50696904245388",
@@ -3629,7 +3629,7 @@
       "sellingPrice": 3399,
       "mrp": 3399,
       "discountPercent": 0,
-      "availableVariants": 6,
+      "availableVariants": 5,
       "totalVariants": 6,
       "rating": 4.73,
       "reviewCount": 59,
@@ -3854,7 +3854,7 @@
           "size": "S1 (EU 20 - 22)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50848648233100",
@@ -3953,7 +3953,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50848648691852",
@@ -3962,7 +3962,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 3199,
           "mrp": 3199,
-          "available": false
+          "available": true
         },
         {
           "id": "50848648724620",
@@ -4016,7 +4016,7 @@
           "size": "S2 (EU 23 - 25)",
           "sellingPrice": 3399,
           "mrp": 3399,
-          "available": false
+          "available": true
         },
         {
           "id": "50848648986764",
@@ -4070,7 +4070,7 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 3499,
           "mrp": 3499,
-          "available": false
+          "available": true
         },
         {
           "id": "50848649216140",
@@ -4124,7 +4124,7 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2699,
           "mrp": 2699,
-          "available": false
+          "available": true
         },
         {
           "id": "50848649478284",
@@ -4133,7 +4133,7 @@
           "size": "S3 (EU 26 - 28)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50848649740428",
@@ -4214,7 +4214,7 @@
           "size": "S4 (EU 29 - 31)",
           "sellingPrice": 3399,
           "mrp": 3399,
-          "available": false
+          "available": true
         },
         {
           "id": "50848649904268",
@@ -4331,7 +4331,7 @@
           "size": "S5 (EU 32 - 34)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         },
         {
           "id": "50848650657932",
@@ -4430,13 +4430,13 @@
           "size": "S6 (EU 35 - 37)",
           "sellingPrice": 2999,
           "mrp": 2999,
-          "available": false
+          "available": true
         }
       ],
       "sellingPrice": 2699,
       "mrp": 2699,
       "discountPercent": 0,
-      "availableVariants": 51,
+      "availableVariants": 61,
       "totalVariants": 66,
       "rating": 4.73,
       "reviewCount": 521,
@@ -4558,10 +4558,10 @@
       "discountPercent": 6.7,
       "availableVariants": 6,
       "totalVariants": 10,
-      "rating": 4.75,
-      "reviewCount": 44,
-      "displayedRating": 4.75,
-      "displayedReviewCount": 44,
+      "rating": 4.67,
+      "reviewCount": 46,
+      "displayedRating": 4.67,
+      "displayedReviewCount": 46,
       "reviewPoolProductCount": 1,
       "detailPageChecked": true,
       "status": "existing"

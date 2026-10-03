@@ -366,10 +366,13 @@ function persistRun(db, runId, observedAt, products, campaigns) {
   db.exec("BEGIN");
   try {
     for (const product of products) {
-      const wasKnown = knownProducts.has(product.id);
+      const previousProduct = knownProducts.get(product.id);
+      const wasKnown = Boolean(previousProduct);
+      product.status = !wasKnown ? "new" : previousProduct.active ? "existing" : "restored";
       productUpsert.run(product.id, product.title, product.handle, product.url, product.productType, product.gender,
         JSON.stringify(product.ageBandKeys), JSON.stringify(product.tags), product.imageUrl, product.publishedAt, observedAt, observedAt);
       if (!wasKnown) eventInsert.run(runId, observedAt, "product_added", "normal", product.id, null, `New product: ${product.title}`, product.productType, null, null);
+      else if (!previousProduct.active) eventInsert.run(runId, observedAt, "product_restored", "normal", product.id, null, `Product restored: ${product.title}`, product.productType, null, null);
       productObservation.run(runId, product.id, observedAt, product.sellingPrice, product.mrp, product.discountPercent,
         product.availableVariants, product.totalVariants, product.rating, product.reviewCount);
       for (const variant of product.variants) {

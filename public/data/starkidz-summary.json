@@ -5,13 +5,13 @@
     "url": "https://www.starkidz.co.in",
     "mode": "Public website"
   },
-  "generatedAt": "2026-09-15T20:49:41.656Z",
+  "generatedAt": "2026-10-02T08:33:46.608Z",
   "isBaseline": false,
   "metrics": {
     "activeListings": 75,
     "variantCount": 588,
-    "averageSellingPrice": 480,
-    "averageDiscount": 46.1,
+    "averageSellingPrice": 481,
+    "averageDiscount": 46,
     "campaignCount": 4,
     "totalReviews": 40,
     "averageRating": 4.6,
@@ -33,8 +33,8 @@
         "key": "party-wear",
         "label": "Party Wear",
         "productCount": 16,
-        "averageSellingPrice": 453,
-        "averageDiscount": 47,
+        "averageSellingPrice": 455,
+        "averageDiscount": 46.5,
         "totalReviews": 10,
         "averageRating": 4.1
       },
@@ -80,8 +80,8 @@
         "key": "unisex",
         "label": "Unisex",
         "productCount": 75,
-        "averageSellingPrice": 480,
-        "averageDiscount": 46.1,
+        "averageSellingPrice": 481,
+        "averageDiscount": 46,
         "totalReviews": 38,
         "averageRating": 4.68
       },
@@ -118,8 +118,8 @@
         "key": "0-3-years",
         "label": "0–3 years",
         "productCount": 62,
-        "averageSellingPrice": 444,
-        "averageDiscount": 45,
+        "averageSellingPrice": 445,
+        "averageDiscount": 44.9,
         "totalReviews": 36,
         "averageRating": 4.67
       },
@@ -159,7 +159,7 @@
       "detail": "Discount promoted for a customer’s first order.",
       "discountText": "10% off",
       "type": "Coupon",
-      "observedAt": "2026-09-15T20:49:41.656Z"
+      "observedAt": "2026-10-02T08:33:46.608Z"
     },
     {
       "key": "starkidz:multi-buy",
@@ -167,7 +167,7 @@
       "detail": "Buy 2 · 15% off; Buy 3 · 20% off",
       "discountText": "15% / 20%",
       "type": "Multi-buy",
-      "observedAt": "2026-09-15T20:49:41.656Z"
+      "observedAt": "2026-10-02T08:33:46.608Z"
     },
     {
       "key": "starkidz:end-of-season",
@@ -175,7 +175,7 @@
       "detail": "Sitewide end-of-season sale message.",
       "discountText": "Up to 60%",
       "type": "Seasonal sale",
-      "observedAt": "2026-09-15T20:49:41.656Z"
+      "observedAt": "2026-10-02T08:33:46.608Z"
     },
     {
       "key": "starkidz:free-shipping",
@@ -183,7 +183,7 @@
       "detail": "Free shipping is promoted for prepaid orders.",
       "discountText": "Service benefit",
       "type": "Shipping benefit",
-      "observedAt": "2026-09-15T20:49:41.656Z"
+      "observedAt": "2026-10-02T08:33:46.608Z"
     }
   ],
   "events": [],
@@ -210,6 +210,6 @@
     "allowed": false,
     "scansToday": 1,
     "limitPerDay": 1,
-    "nextAvailableAt": "2026-09-16T18:30:00.000Z"
+    "nextAvailableAt": "2026-10-02T18:30:00.000Z"
   }
 }

@@ -50,6 +50,14 @@ next-env.d.ts
 /data/*.log
 /.pnpm-store/
 /review-dist/
+/local-dist/
 /deliverables/
 /.chrome-review-test*/
 /.edge-review-test*/
+/data/backups/
+/data/logs/
+/data/runtime/
+/data/local-runtime/
+/data/local-runtime.json
+/data/scheduler-status.json
+/data/scheduled-scan.lock

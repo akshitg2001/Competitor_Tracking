@@ -5,18 +5,18 @@
     "url": "https://onyc.in",
     "mode": "Public website"
   },
-  "generatedAt": "2026-09-15T20:19:49.691Z",
+  "generatedAt": "2026-10-02T08:33:12.228Z",
   "isBaseline": false,
   "metrics": {
-    "activeListings": 109,
-    "variantCount": 825,
-    "averageSellingPrice": 585,
-    "averageDiscount": 43,
+    "activeListings": 113,
+    "variantCount": 837,
+    "averageSellingPrice": 583,
+    "averageDiscount": 43.3,
     "campaignCount": 3,
-    "totalReviews": 5495,
-    "averageRating": 4.85,
-    "averageReviewsPerProduct": 50,
-    "ratedProducts": 109
+    "totalReviews": 5583,
+    "averageRating": 4.84,
+    "averageReviewsPerProduct": 49,
+    "ratedProducts": 113
   },
   "categories": {
     "type": [
@@ -24,9 +24,9 @@
         "key": "shoes",
         "label": "Shoes",
         "productCount": 51,
-        "averageSellingPrice": 799,
-        "averageDiscount": 34.9,
-        "totalReviews": 3025,
+        "averageSellingPrice": 801,
+        "averageDiscount": 35,
+        "totalReviews": 3027,
         "averageRating": 4.85
       },
       {
@@ -35,7 +35,7 @@
         "productCount": 16,
         "averageSellingPrice": 418,
         "averageDiscount": 50.1,
-        "totalReviews": 1158,
+        "totalReviews": 1184,
         "averageRating": 4.8
       },
       {
@@ -44,7 +44,7 @@
         "productCount": 18,
         "averageSellingPrice": 424,
         "averageDiscount": 50.1,
-        "totalReviews": 333,
+        "totalReviews": 336,
         "averageRating": 4.9
       },
       {
@@ -53,27 +53,27 @@
         "productCount": 24,
         "averageSellingPrice": 362,
         "averageDiscount": 50.1,
-        "totalReviews": 979,
-        "averageRating": 4.85
+        "totalReviews": 996,
+        "averageRating": 4.84
       }
     ],
     "gender": [
       {
         "key": "unisex",
         "label": "Unisex",
-        "productCount": 97,
-        "averageSellingPrice": 593,
-        "averageDiscount": 42.6,
-        "totalReviews": 4796,
+        "productCount": 102,
+        "averageSellingPrice": 588,
+        "averageDiscount": 43,
+        "totalReviews": 4884,
         "averageRating": 4.85
       },
       {
         "key": "girls",
         "label": "Girls",
-        "productCount": 11,
-        "averageSellingPrice": 485,
-        "averageDiscount": 46.7,
-        "totalReviews": 570,
+        "productCount": 10,
+        "averageSellingPrice": 499,
+        "averageDiscount": 46.4,
+        "totalReviews": 569,
         "averageRating": 4.83
       },
       {
@@ -82,7 +82,7 @@
         "productCount": 1,
         "averageSellingPrice": 899,
         "averageDiscount": 40,
-        "totalReviews": 129,
+        "totalReviews": 130,
         "averageRating": 4.84
       },
       {
@@ -99,28 +99,28 @@
       {
         "key": "infants",
         "label": "Infants · 9–18m",
-        "productCount": 88,
-        "averageSellingPrice": 567,
-        "averageDiscount": 42.4,
-        "totalReviews": 4609,
-        "averageRating": 4.85
+        "productCount": 92,
+        "averageSellingPrice": 565,
+        "averageDiscount": 42.8,
+        "totalReviews": 4683,
+        "averageRating": 4.84
       },
       {
         "key": "toddlers",
         "label": "Toddlers · 18–36m",
         "productCount": 99,
-        "averageSellingPrice": 594,
-        "averageDiscount": 42.4,
-        "totalReviews": 5201,
+        "averageSellingPrice": 595,
+        "averageDiscount": 42.5,
+        "totalReviews": 5246,
         "averageRating": 4.85
       },
       {
         "key": "early-years",
         "label": "Early years · 3–5y",
         "productCount": 109,
-        "averageSellingPrice": 585,
+        "averageSellingPrice": 586,
         "averageDiscount": 43,
-        "totalReviews": 5495,
+        "totalReviews": 5543,
         "averageRating": 4.85
       },
       {
@@ -129,7 +129,7 @@
         "productCount": 25,
         "averageSellingPrice": 443,
         "averageDiscount": 49.4,
-        "totalReviews": 1204,
+        "totalReviews": 1227,
         "averageRating": 4.83
       }
     ]
@@ -142,7 +142,7 @@
       "discountText": "5% extra off",
       "type": "Coupon",
       "sourceSurface": "Announcement bar",
-      "observedAt": "2026-09-15T20:19:49.691Z"
+      "observedAt": "2026-10-02T08:33:12.228Z"
     },
     {
       "key": "multi-buy",
@@ -151,7 +151,7 @@
       "discountText": "10% / 15%",
       "type": "Multi-buy",
       "sourceSurface": "Cart drawer widget",
-      "observedAt": "2026-09-15T20:19:49.691Z"
+      "observedAt": "2026-10-02T08:33:12.228Z"
     },
     {
       "key": "free-delivery",
@@ -160,7 +160,7 @@
       "discountText": "Service benefit",
       "type": "Shipping benefit",
       "sourceSurface": "Announcement bar",
-      "observedAt": "2026-09-15T20:19:49.691Z"
+      "observedAt": "2026-10-02T08:33:12.228Z"
     }
   ],
   "campaignHealth": {
@@ -171,41 +171,18 @@
       "Public cart-widget settings"
     ]
   },
-  "events": [
-    {
-      "type": "campaign_added",
-      "severity": "normal",
-      "title": "New campaign: Multi-buy offer",
-      "detail": "Buy 2 · 10% extra off; Buy 3 · 15% extra off",
-      "productId": null,
-      "variantId": null,
-      "previousValue": null,
-      "currentValue": null,
-      "occurredAt": "2026-09-15T20:19:49.691Z"
-    },
-    {
-      "type": "campaign_added",
-      "severity": "normal",
-      "title": "New campaign: First-order offer",
-      "detail": "Use ONYC5OFF on the first order.",
-      "productId": null,
-      "variantId": null,
-      "previousValue": null,
-      "currentValue": null,
-      "occurredAt": "2026-09-15T20:19:49.691Z"
-    }
-  ],
+  "events": [],
   "health": {
     "status": "Healthy",
     "catalogueComplete": true,
-    "pricedProducts": 109,
-    "detailPagesChecked": 109,
+    "pricedProducts": 113,
+    "detailPagesChecked": 113,
     "detailPagesFailed": 0
   },
   "refresh": {
     "allowed": false,
     "scansToday": 1,
     "limitPerDay": 1,
-    "nextAvailableAt": "2026-09-16T18:30:00.000Z"
+    "nextAvailableAt": "2026-10-02T18:30:00.000Z"
   }
 }

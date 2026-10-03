@@ -5,7 +5,7 @@
     "url": "https://katsstore.com",
     "mode": "Public website"
   },
-  "generatedAt": "2026-09-16T12:22:04.285Z",
+  "generatedAt": "2026-10-02T08:34:06.150Z",
   "products": [
     {
       "id": "7935280677051",
@@ -983,7 +983,7 @@
           "size": "11C (4-5 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43943976337595",
@@ -1028,7 +1028,7 @@
           "size": "11C (4-5 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44821187363003",
@@ -1046,7 +1046,7 @@
           "size": "8C (2.5-3 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44821187428539",
@@ -1055,7 +1055,7 @@
           "size": "9C (3-3.5 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44821187461307",
@@ -1064,7 +1064,7 @@
           "size": "10C (3.5-4 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44821187494075",
@@ -1073,13 +1073,13 @@
           "size": "11C (4-5 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         }
       ],
       "sellingPrice": 599,
       "mrp": 699,
       "discountPercent": 14.3,
-      "availableVariants": 9,
+      "availableVariants": 15,
       "totalVariants": 20,
       "rating": 0,
       "reviewCount": 0,
@@ -1830,7 +1830,7 @@
           "size": "7C (2-2.5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43330357297339",
@@ -1839,7 +1839,7 @@
           "size": "8C (2.5-3 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43330357428411",
@@ -1848,7 +1848,7 @@
           "size": "9C (3-3.5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43330357559483",
@@ -1893,7 +1893,7 @@
           "size": "9C (3-3.5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43330357592251",
@@ -1902,7 +1902,7 @@
           "size": "10C (3.5-4 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43330357723323",
@@ -1911,7 +1911,7 @@
           "size": "11C (4-5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44840134508731",
@@ -1929,7 +1929,7 @@
           "size": "8C (2.5-3 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44840134574267",
@@ -1938,7 +1938,7 @@
           "size": "9C (3-3.5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44840134607035",
@@ -1947,7 +1947,7 @@
           "size": "10C (3.5-4 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44840134639803",
@@ -1956,7 +1956,7 @@
           "size": "11C (4-5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44840134672571",
@@ -2028,7 +2028,7 @@
           "size": "9C (3-3.5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44840134934715",
@@ -2037,7 +2037,7 @@
           "size": "10C (3.5-4 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44840134967483",
@@ -2046,7 +2046,7 @@
           "size": "11C (4-5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44840135000251",
@@ -2097,7 +2097,7 @@
       "sellingPrice": 499,
       "mrp": 699,
       "discountPercent": 28.6,
-      "availableVariants": 17,
+      "availableVariants": 30,
       "totalVariants": 30,
       "rating": 0,
       "reviewCount": 0,
@@ -2199,7 +2199,7 @@
           "size": "2.5C(15-18 MONTHS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "43900864430267",
@@ -2208,7 +2208,7 @@
           "size": "3C(18-21 MONTHS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "43900864463035",
@@ -2268,7 +2268,7 @@
       "sellingPrice": 499,
       "mrp": 699,
       "discountPercent": 28.6,
-      "availableVariants": 6,
+      "availableVariants": 4,
       "totalVariants": 15,
       "rating": 0,
       "reviewCount": 0,
@@ -2460,7 +2460,7 @@
           "size": "2.5C(15-18 MONTHS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "46780814065851",
@@ -2469,7 +2469,7 @@
           "size": "3C(18-21 MONTHS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "46780814098619",
@@ -2484,7 +2484,7 @@
       "sellingPrice": 499,
       "mrp": 699,
       "discountPercent": 28.6,
-      "availableVariants": 11,
+      "availableVariants": 9,
       "totalVariants": 20,
       "rating": 0,
       "reviewCount": 0,
@@ -2532,7 +2532,7 @@
           "size": "2C(12-15 MONTHS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "44830663606459",
@@ -2541,7 +2541,7 @@
           "size": "2.5C(15-18 MONTHS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "44830663639227",
@@ -2559,7 +2559,7 @@
           "size": "3.5C(21-24 MONTHS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "44830663704763",
@@ -2700,7 +2700,7 @@
       "sellingPrice": 499,
       "mrp": 699,
       "discountPercent": 28.6,
-      "availableVariants": 7,
+      "availableVariants": 4,
       "totalVariants": 20,
       "rating": 5,
       "reviewCount": 2,
@@ -3406,7 +3406,7 @@
           "size": "15-18 MONTHS",
           "sellingPrice": 489,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "46656831619259",
@@ -3448,7 +3448,7 @@
       "sellingPrice": 489,
       "mrp": 699,
       "discountPercent": 30,
-      "availableVariants": 11,
+      "availableVariants": 10,
       "totalVariants": 12,
       "rating": 0,
       "reviewCount": 0,
@@ -3584,13 +3584,13 @@
           "size": "15-18 MONTHS",
           "sellingPrice": 489,
           "mrp": 699,
-          "available": true
+          "available": false
         }
       ],
       "sellingPrice": 489,
       "mrp": 699,
       "discountPercent": 30,
-      "availableVariants": 12,
+      "availableVariants": 11,
       "totalVariants": 12,
       "rating": 0,
       "reviewCount": 0,
@@ -3818,7 +3818,7 @@
           "size": "2C(12-15 MONTHS)",
           "sellingPrice": 499,
           "mrp": 999,
-          "available": false
+          "available": true
         },
         {
           "id": "46780846571707",
@@ -3836,7 +3836,7 @@
           "size": "3C(18-21 MONTHS)",
           "sellingPrice": 499,
           "mrp": 999,
-          "available": false
+          "available": true
         },
         {
           "id": "46780846637243",
@@ -3845,13 +3845,13 @@
           "size": "3.5C(21-24 MONTHS)",
           "sellingPrice": 499,
           "mrp": 999,
-          "available": false
+          "available": true
         }
       ],
       "sellingPrice": 499,
       "mrp": 999,
       "discountPercent": 50.1,
-      "availableVariants": 22,
+      "availableVariants": 25,
       "totalVariants": 25,
       "rating": 0,
       "reviewCount": 0,
@@ -4504,7 +4504,7 @@
           "size": "7C (2-2.5 YEARS)",
           "sellingPrice": 599,
           "mrp": 1499,
-          "available": false
+          "available": true
         },
         {
           "id": "46760700281019",
@@ -4594,7 +4594,7 @@
           "size": "7C (2-2.5 YEARS)",
           "sellingPrice": 599,
           "mrp": 1499,
-          "available": false
+          "available": true
         },
         {
           "id": "46760701886651",
@@ -4636,7 +4636,7 @@
       "sellingPrice": 599,
       "mrp": 1499,
       "discountPercent": 60,
-      "availableVariants": 17,
+      "availableVariants": 19,
       "totalVariants": 20,
       "rating": 0,
       "reviewCount": 0,
@@ -4703,7 +4703,7 @@
           "size": "10C (3.5-4 YEARS)",
           "sellingPrice": 599,
           "mrp": 999,
-          "available": true
+          "available": false
         },
         {
           "id": "46760704114875",
@@ -4763,7 +4763,7 @@
       "sellingPrice": 599,
       "mrp": 999,
       "discountPercent": 40,
-      "availableVariants": 1,
+      "availableVariants": 0,
       "totalVariants": 10,
       "rating": 0,
       "reviewCount": 0,
@@ -5845,7 +5845,7 @@
           "size": "9C (3-3.5 YEARS)",
           "sellingPrice": 599,
           "mrp": 1499,
-          "available": true
+          "available": false
         },
         {
           "id": "46780659695803",
@@ -5872,7 +5872,7 @@
           "size": "12 (6-6.5 YEARS)",
           "sellingPrice": 699,
           "mrp": 1499,
-          "available": false
+          "available": true
         },
         {
           "id": "46780665659579",
@@ -6770,7 +6770,7 @@
           "size": "8C (2.5-3 YEARS)",
           "sellingPrice": 599,
           "mrp": 999,
-          "available": true
+          "available": false
         },
         {
           "id": "46780720644283",
@@ -6806,7 +6806,7 @@
           "size": "7C (2-2.5 YEARS)",
           "sellingPrice": 599,
           "mrp": 999,
-          "available": true
+          "available": false
         },
         {
           "id": "46780725887163",
@@ -6842,7 +6842,7 @@
           "size": "6C (1.5-2 YEARS)",
           "sellingPrice": 599,
           "mrp": 999,
-          "available": false
+          "available": true
         },
         {
           "id": "46780726018235",
@@ -6884,7 +6884,7 @@
       "sellingPrice": 599,
       "mrp": 999,
       "discountPercent": 40,
-      "availableVariants": 14,
+      "availableVariants": 13,
       "totalVariants": 20,
       "rating": 0,
       "reviewCount": 0,
@@ -6929,7 +6929,7 @@
           "size": "7C (2-2.5 YEARS)",
           "sellingPrice": 599,
           "mrp": 999,
-          "available": false
+          "available": true
         },
         {
           "id": "46780736110779",
@@ -7010,7 +7010,7 @@
           "size": "6C (1.5-2 YEARS)",
           "sellingPrice": 599,
           "mrp": 999,
-          "available": false
+          "available": true
         },
         {
           "id": "46780736405691",
@@ -7052,7 +7052,7 @@
       "sellingPrice": 599,
       "mrp": 999,
       "discountPercent": 40,
-      "availableVariants": 9,
+      "availableVariants": 11,
       "totalVariants": 15,
       "rating": 0,
       "reviewCount": 0,
@@ -7445,7 +7445,7 @@
           "size": "9-12 MONTHS",
           "sellingPrice": 489,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "44557652230331",
@@ -7517,13 +7517,13 @@
           "size": "15-18 MONTHS",
           "sellingPrice": 489,
           "mrp": 699,
-          "available": true
+          "available": false
         }
       ],
       "sellingPrice": 489,
       "mrp": 699,
       "discountPercent": 30,
-      "availableVariants": 12,
+      "availableVariants": 10,
       "totalVariants": 16,
       "rating": 0,
       "reviewCount": 0,
@@ -7569,7 +7569,7 @@
           "size": "9-12 MONTHS",
           "sellingPrice": 489,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "46656893616315",
@@ -7623,13 +7623,13 @@
           "size": "15-18 MONTHS",
           "sellingPrice": 489,
           "mrp": 699,
-          "available": true
+          "available": false
         }
       ],
       "sellingPrice": 489,
       "mrp": 699,
       "discountPercent": 30,
-      "availableVariants": 7,
+      "availableVariants": 5,
       "totalVariants": 8,
       "rating": 0,
       "reviewCount": 0,
@@ -7720,7 +7720,7 @@
           "size": "12-15 MONTHS",
           "sellingPrice": 489,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "46656881623227",
@@ -7771,7 +7771,7 @@
       "sellingPrice": 489,
       "mrp": 699,
       "discountPercent": 30,
-      "availableVariants": 5,
+      "availableVariants": 6,
       "totalVariants": 12,
       "rating": 0,
       "reviewCount": 0,
@@ -7870,7 +7870,7 @@
           "size": "2.5C (15-18 MONTHS)",
           "sellingPrice": 799,
           "mrp": 1499,
-          "available": false
+          "available": true
         },
         {
           "id": "46754549170363",
@@ -7888,7 +7888,7 @@
           "size": "3.5C (21-24 MONTHS)",
           "sellingPrice": 799,
           "mrp": 1499,
-          "available": true
+          "available": false
         },
         {
           "id": "46754549891259",
@@ -7897,7 +7897,7 @@
           "size": "1.5C (9-12 MONTHS)",
           "sellingPrice": 799,
           "mrp": 1499,
-          "available": true
+          "available": false
         },
         {
           "id": "46754549924027",
@@ -7939,7 +7939,7 @@
       "sellingPrice": 799,
       "mrp": 1499,
       "discountPercent": 46.7,
-      "availableVariants": 7,
+      "availableVariants": 6,
       "totalVariants": 15,
       "rating": 0,
       "reviewCount": 0,
@@ -8287,7 +8287,7 @@
           "size": "2C (12-15 MONTHS)",
           "sellingPrice": 799,
           "mrp": 1499,
-          "available": true
+          "available": false
         },
         {
           "id": "46754560671931",
@@ -8359,13 +8359,13 @@
           "size": "3.5C (21-24 MONTHS)",
           "sellingPrice": 799,
           "mrp": 1499,
-          "available": true
+          "available": false
         }
       ],
       "sellingPrice": 799,
       "mrp": 1499,
       "discountPercent": 46.7,
-      "availableVariants": 18,
+      "availableVariants": 16,
       "totalVariants": 20,
       "rating": 0,
       "reviewCount": 0,
@@ -8549,7 +8549,7 @@
           "size": "11 (5-6 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44474191904955",
@@ -8567,7 +8567,7 @@
           "size": "12 (6-6.5 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43943864205499",
@@ -8585,7 +8585,7 @@
           "size": "13 (6.5-7 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43943864271035",
@@ -8621,7 +8621,7 @@
           "size": "2 (7.5-8 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43943864402107",
@@ -8639,7 +8639,7 @@
           "size": "3 (8-8.5 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43943864467643",
@@ -8675,7 +8675,7 @@
           "size": "5 (9-10 YEARS)",
           "sellingPrice": 599,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "44507418296507",
@@ -8690,7 +8690,7 @@
       "sellingPrice": 599,
       "mrp": 699,
       "discountPercent": 14.3,
-      "availableVariants": 10,
+      "availableVariants": 16,
       "totalVariants": 16,
       "rating": 0,
       "reviewCount": 0,
@@ -8729,7 +8729,7 @@
           "size": "5C (1-1.5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43327433703611",
@@ -8747,7 +8747,7 @@
           "size": "6C (1.5-2 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43327433769147",
@@ -8765,7 +8765,7 @@
           "size": "7C (2-2.5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43327433834683",
@@ -8783,7 +8783,7 @@
           "size": "8C (2.5-3 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43327433900219",
@@ -8801,7 +8801,7 @@
           "size": "9C (3-3.5 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43327433965755",
@@ -8819,7 +8819,7 @@
           "size": "10C (3.5-4 YEARS)",
           "sellingPrice": 499,
           "mrp": 699,
-          "available": false
+          "available": true
         },
         {
           "id": "43327434031291",
@@ -8834,7 +8834,7 @@
       "sellingPrice": 499,
       "mrp": 699,
       "discountPercent": 28.6,
-      "availableVariants": 6,
+      "availableVariants": 12,
       "totalVariants": 12,
       "rating": 0,
       "reviewCount": 0,
@@ -8887,7 +8887,7 @@
           "size": "12-15 MONTHS",
           "sellingPrice": 699,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "44526976368827",
@@ -8905,7 +8905,7 @@
           "size": "15-18 MONTHS",
           "sellingPrice": 699,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "44526976401595",
@@ -8941,7 +8941,7 @@
           "size": "21-24 MONTHS",
           "sellingPrice": 699,
           "mrp": 699,
-          "available": true
+          "available": false
         },
         {
           "id": "44526976532667",
@@ -8956,7 +8956,7 @@
       "sellingPrice": 699,
       "mrp": 699,
       "discountPercent": 0,
-      "availableVariants": 4,
+      "availableVariants": 1,
       "totalVariants": 10,
       "rating": 0,
       "reviewCount": 0,
@@ -10463,7 +10463,7 @@
           "size": "3C (18-21 MONTHS)",
           "sellingPrice": 449,
           "mrp": 999,
-          "available": true
+          "available": false
         },
         {
           "id": "46754567323835",
@@ -10523,7 +10523,7 @@
       "sellingPrice": 449,
       "mrp": 999,
       "discountPercent": 55.1,
-      "availableVariants": 2,
+      "availableVariants": 1,
       "totalVariants": 10,
       "rating": 0,
       "reviewCount": 0,

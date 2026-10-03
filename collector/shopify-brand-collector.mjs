@@ -277,9 +277,10 @@ function persist(db, runId, observedAt, products, campaigns, config) {
   db.exec("BEGIN");
   try {
     for (const product of products) {
-      const isNew = !known.has(product.id); product.status = isNew ? "new" : "existing";
+      const previousProduct = known.get(product.id); const isNew = !previousProduct; const isRestored = Boolean(previousProduct && !previousProduct.active); product.status = isNew ? "new" : isRestored ? "restored" : "existing";
       productUpsert.run(product.id, config.brandName, product.title, product.handle, product.url, product.productType, product.gender, JSON.stringify(product.ageBandKeys), JSON.stringify(product.tags), product.imageUrl, product.publishedAt, observedAt, observedAt);
       if (isNew) eventInsert.run(runId, observedAt, "product_added", "normal", product.id, null, `New product: ${product.title}`, product.productType, null, null);
+      else if (isRestored) eventInsert.run(runId, observedAt, "product_restored", "normal", product.id, null, `Product restored: ${product.title}`, product.productType, null, null);
       productObservation.run(runId, product.id, observedAt, product.sellingPrice, product.mrp, product.discountPercent, product.availableVariants, product.totalVariants, product.rating, product.reviewCount);
       for (const variant of product.variants) {
         const previous = db.prepare("SELECT selling_price FROM variant_observations WHERE variant_id=? ORDER BY observed_at DESC LIMIT 1").get(variant.id);

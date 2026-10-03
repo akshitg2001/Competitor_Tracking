@@ -5,7 +5,7 @@
     "url": "https://katsstore.com",
     "mode": "Public website"
   },
-  "generatedAt": "2026-09-16T12:22:04.285Z",
+  "generatedAt": "2026-10-02T08:34:06.150Z",
   "isBaseline": false,
   "metrics": {
     "activeListings": 75,
@@ -133,7 +133,7 @@
       "discountText": "10% off",
       "type": "Coupon",
       "sourceSurface": "Announcement bar",
-      "observedAt": "2026-09-16T12:22:04.285Z"
+      "observedAt": "2026-10-02T08:34:06.150Z"
     },
     {
       "key": "kats:coupon:kats10",
@@ -142,7 +142,7 @@
       "discountText": "10% off",
       "type": "Coupon",
       "sourceSurface": "Product page",
-      "observedAt": "2026-09-16T12:22:04.285Z"
+      "observedAt": "2026-10-02T08:34:06.150Z"
     },
     {
       "key": "kats:newsletter",
@@ -151,7 +151,7 @@
       "discountText": "10% off",
       "type": "Signup offer",
       "sourceSurface": "Website footer",
-      "observedAt": "2026-09-16T12:22:04.285Z"
+      "observedAt": "2026-10-02T08:34:06.150Z"
     },
     {
       "key": "kats:free-shipping",
@@ -160,7 +160,7 @@
       "discountText": "Above ₹399",
       "type": "Shipping benefit",
       "sourceSurface": "Product page",
-      "observedAt": "2026-09-16T12:22:04.285Z"
+      "observedAt": "2026-10-02T08:34:06.150Z"
     }
   ],
   "events": [],
@@ -194,6 +194,6 @@
     "allowed": false,
     "scansToday": 1,
     "limitPerDay": 1,
-    "nextAvailableAt": "2026-09-16T18:30:00.000Z"
+    "nextAvailableAt": "2026-10-02T18:30:00.000Z"
   }
 }
